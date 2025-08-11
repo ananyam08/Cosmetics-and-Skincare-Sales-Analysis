@@ -1,0 +1,2001 @@
+sale_Id,Sales Person,Country,Product,Date,Amount ($),Boxes Shipped
+374,Lucas Verma,Canada,Aloe Vera Gel,30-04-2022,7897.13,358
+375,Ethan Reddy,UK,Aloe Vera Gel,25-01-2022,16376.88,449
+376,Ananya Gupta,India,Body Butter Cream,22-08-2022,5599.68,264
+377,Ananya Gupta,New Zealand,Salicylic Acid Cleanser,26-08-2022,2966.47,144
+378,Sophia Nair,UK,Body Butter Cream,19-05-2022,6828.68,484
+379,Ananya Gupta,UK,Lip Balm Pack,27-08-2022,2555.95,192
+380,Ananya Gupta,New Zealand,,29-04-2022,832.92,19
+381,Sophia Nair,New Zealand,Tea Tree Moisturizer,15-07-2022,997.96,36
+382,Isabella Roy,New Zealand,Lip Balm Pack,04-02-2022,7754.36,466
+383,Noah Mehta,India,Aloe Vera Gel,16-05-2022,5507.19,176
+384,Olivia D'Souza,Australia,Body Butter Cream,27-01-2022,1119.66,87
+385,Sophia Nair,USA,Face Sheet Masks,02-06-2022,6853.59,384
+386,Ava Sharma,USA,Hair Repair Oil,06-04-2022,12147.98,254
+387,Lucas Verma,new Zealand,Aloe Vera Gel,26-07-2022,923.46,79
+388,Ava Sharma,Canada,Salicylic Acid Cleanser,10-01-2022,442.07,24
+389,Liam Patel,Canada,Aloe Vera Gel,04-01-2022,3900.37,83
+390,Ava Sharma,New Zealand,,02-06-2022,801.63,25
+391,Isabella Roy,India,Aloe Vera Gel,03-03-2022,10101.78,251
+392,Sophia Nair,Canada,Vitamin C Cream,29-05-2022,6600.15,417
+393,Lucas Verma,USA,Niacinamide Toner,28-05-2022,5302.98,258
+394,Noah Mehta,UK,Under Eye Cream,02-08-2022,6310.09,257
+395,Noah Mehta,Canada,Hydrating Face Serum,17-07-2022,2369.18,211
+396,Sophia Nair,UK,Aloe Vera Gel,14-05-2022,16418.97,358
+397,Olivia D'Souza,New Zealand,Vitamin C Cream,15-01-2022,10774.83,226
+398,Sophia Nair,Australia,Niacinamide Toner,13-04-2022,5958.48,162
+399,Olivia D'Souza,,Tea Tree Moisturizer,22-07-2022,1194.96,74
+400,Isabella Roy,Australia,Charcoal Face Wash,11-04-2022,314.68,18
+401,Mason Kapoor,Australia,Anti-Aging Serum,18-06-2022,1442.65,91
+402,Liam Patel,USA,Under Eye Cream,12-06-2022,2810.34,78
+403,Mason Kapoor,UK,Under Eye Cream,13-01-2022,1394.62,57
+404,Liam Patel,Australia,Niacinamide Toner,02-04-2022,8143.6,213
+405,Mason Kapoor,UK,Body Butter Cream,10-07-2022,12885.94,340
+406,Liam Patel,Canada,Lip Balm Pack,03-08-2022,16223.13,362
+407,Noah Mehta,UK,Face Sheet Masks,18-03-2022,8330.47,217
+408,Mason Kapoor,New Zealand,Rose Water Toner,19-06-2022,5384.2,290
+409,Ava Sharma,India,Hydrating Face Serum,07-03-2022,19594.27,450
+410,Ava Sharma,New Zealand,Vitamin C Cream,27-05-2022,12213.24,266
+411,Lucas Verma,UK,Hydrating Face Serum,11-05-2022,4242.56,357
+412,Mason Kapoor,Australia,Face Sheet Masks,20-03-2022,13379.16,498
+413,Lucas Verma,,Tea Tree Moisturizer,25-03-2022,9353.99,246
+414,Ananya Gupta,New Zealand,Vitamin C Cream,26-08-2022,5032.73,147
+415,Mason Kapoor,UK,Lip Balm Pack,09-01-2022,3041.08,103
+416,Ananya Gupta,Canada,Hair Repair Oil,25-03-2022,3258.73,150
+417,Liam Patel,USA,Anti-Aging Serum,17-05-2022,10452.26,242
+418,Ethan Reddy,USA,Hydrating Face Serum,29-05-2022,8642.86,298
+419,Ananya Gupta,India,Rose Water Toner,31-03-2022,2523.86,102
+420,Ethan Reddy,Canada,Charcoal Face Wash,07-05-2022,11599.9,324
+421,Liam Patel,New Zealand,SPF 50 Sunscreen,27-05-2022,15606.61,331
+422,Mason Kapoor,New Zealand,Lip Balm Pack,13-07-2022,9583.51,312
+423,Noah Mehta,New Zealand,Tea Tree Moisturizer,13-08-2022,10192.85,373
+424,Olivia D'Souza,USA,Hydrating Face Serum,02-05-2022,21701.44,483
+425,Sophia Nair,India,Hair Repair Oil,28-08-2022,6496.58,366
+426,Ananya Gupta,New Zealand,Body Butter Cream,02-02-2022,16383.31,438
+427,Mason Kapoor,New Zealand,Body Butter Cream,03-06-2022,15834.45,361
+428,Noah Mehta,UK,Lip Balm Pack,17-05-2022,7501.02,489
+429,Noah Mehta,UK,Hydrating Face Serum,24-06-2022,922.43,29
+430,Ananya Gupta,India,Salicylic Acid Cleanser,28-04-2022,6141.45,213
+431,Noah Mehta,New Zealand,Rose Water Toner,23-03-2022,1745.79,156
+432,Liam Patel,New Zealand,Charcoal Face Wash,25-03-2022,7268.2,198
+433,Sophia Nair,UK,SPF 50 Sunscreen,25-04-2022,424.38,30
+434,Noah Mehta,New Zealand,Body Butter Cream,08-04-2022,10711.79,331
+435,Noah Mehta,USA,Vitamin C Cream,23-03-2022,8154.9,248
+436,Ava Sharma,New Zealand,Tea Tree Moisturizer,25-07-2022,5132.41,454
+437,Isabella Roy,India,Vitamin C Cream,21-03-2022,6538.2,264
+438,Ethan Reddy,USA,Rose Water Toner,11-07-2022,13625.75,406
+439,Isabella Roy,Australia,SPF 50 Sunscreen,18-06-2022,3344.35,244
+440,Sophia Nair,India,Aloe Vera Gel,02-03-2022,11456.29,325
+441,Ava Sharma,India,Hair Repair Oil,19-04-2022,8946.01,434
+442,Ananya Gupta,Australia,Hair Repair Oil,16-01-2022,15120.74,360
+443,Ethan Reddy,Canada,Under Eye Cream,01-04-2022,9372.51,274
+444,Ananya Gupta,UK,Hydrating Face Serum,22-05-2022,4531.42,107
+445,Noah Mehta,USA,Aloe Vera Gel,13-01-2022,16283.5,456
+446,Ava Sharma,Canada,Tea Tree Moisturizer,24-01-2022,10108.84,402
+447,Noah Mehta,UK,Body Butter Cream,12-08-2022,3801.03,202
+448,Liam Patel,USA,Anti-Aging Serum,08-07-2022,1308.08,51
+449,Noah Mehta,Canada,Face Sheet Masks,09-07-2022,13195,285
+450,Isabella Roy,Australia,Niacinamide Toner,25-04-2022,5223.33,152
+451,Olivia D'Souza,Canada,Salicylic Acid Cleanser,30-08-2022,6102.47,146
+452,Noah Mehta,Australia,Hydrating Face Serum,29-06-2022,8416.43,237
+453,Isabella Roy,Canada,Under Eye Cream,22-05-2022,8215.87,334
+454,Sophia Nair,Canada,SPF 50 Sunscreen,29-03-2022,6936.38,322
+455,Olivia D'Souza,New Zealand,Under Eye Cream,04-03-2022,2422.62,180
+456,Lucas Verma,USA,Anti-Aging Serum,13-01-2022,17090.34,366
+457,Ava Sharma,Canada,Hydrating Face Serum,23-02-2022,10497.39,324
+458,Sophia Nair,UK,Under Eye Cream,29-08-2022,569.78,14
+459,Olivia D'Souza,UK,Hydrating Face Serum,15-03-2022,4103.17,124
+460,Isabella Roy,Australia,SPF 50 Sunscreen,26-08-2022,891.11,73
+461,Isabella Roy,UK,Hydrating Face Serum,18-01-2022,14127.27,465
+462,Olivia D'Souza,USA,Aloe Vera Gel,25-03-2022,5150.27,218
+463,Noah Mehta,USA,Face Sheet Masks,08-03-2022,146.7,13
+464,Sophia Nair,New Zealand,Hair Repair Oil,17-02-2022,3812.92,118
+465,Mason Kapoor,USA,Niacinamide Toner,23-07-2022,9450.04,218
+466,Noah Mehta,UK,Face Sheet Masks,14-02-2022,6457.54,293
+467,Olivia D'Souza,UK,Under Eye Cream,19-02-2022,7925.54,309
+468,Lucas Verma,USA,Tea Tree Moisturizer,13-04-2022,16861.45,385
+469,Lucas Verma,New Zealand,Salicylic Acid Cleanser,17-08-2022,1650.87,72
+470,Ananya Gupta,Australia,Hair Repair Oil,15-07-2022,19861.82,424
+471,Isabella Roy,Canada,Body Butter Cream,08-06-2022,10647.12,234
+472,Olivia D'Souza,Australia,SPF 50 Sunscreen,03-06-2022,1564.91,49
+473,Liam Patel,India,Tea Tree Moisturizer,10-01-2022,2126.3,89
+474,Liam Patel,India,Niacinamide Toner,09-04-2022,2893.74,204
+475,Isabella Roy,Australia,Tea Tree Moisturizer,17-04-2022,13434.96,283
+476,Ethan Reddy,India,Lip Balm Pack,05-07-2022,8273.51,169
+477,Noah Mehta,UK,Charcoal Face Wash,07-04-2022,4063.64,149
+478,Olivia D'Souza,UK,Aloe Vera Gel,06-08-2022,6650.47,471
+479,Liam Patel,USA,Hydrating Face Serum,08-02-2022,4463.32,295
+480,Ava Sharma,USA,SPF 50 Sunscreen,10-03-2022,16996.07,471
+481,Olivia D'Souza,UK,Tea Tree Moisturizer,30-08-2022,4768.41,183
+482,Isabella Roy,Australia,Face Sheet Masks,30-03-2022,18046.13,401
+483,Mason Kapoor,USA,Aloe Vera Gel,18-05-2022,868.92,46
+484,Liam Patel,Australia,Charcoal Face Wash,26-01-2022,4759.75,96
+485,Isabella Roy,USA,Rose Water Toner,22-03-2022,19576.41,402
+486,Sophia Nair,USA,Lip Balm Pack,20-06-2022,4824.94,235
+487,Isabella Roy,Canada,Hair Repair Oil,19-05-2022,5555.52,150
+488,Lucas Verma,USA,Aloe Vera Gel,28-01-2022,6004.2,126
+489,Sophia Nair,USA,SPF 50 Sunscreen,06-04-2022,12369.81,456
+490,Noah Mehta,UK,Lip Balm Pack,23-05-2022,861.89,29
+491,Ava Sharma,Australia,Vitamin C Cream,11-03-2022,6048.32,360
+492,Sophia Nair,India,Body Butter Cream,02-06-2022,15051.5,418
+493,Mason Kapoor,UK,Under Eye Cream,18-05-2022,756.72,24
+494,Isabella Roy,Canada,Salicylic Acid Cleanser,22-06-2022,534.64,22
+495,Ava Sharma,Canada,Aloe Vera Gel,11-04-2022,12424.63,360
+496,Liam Patel,India,Face Sheet Masks,18-05-2022,15136.25,354
+497,Liam Patel,UK,Face Sheet Masks,28-03-2022,580.35,31
+498,Ananya Gupta,India,Charcoal Face Wash,30-08-2022,5804.87,119
+499,Noah Mehta,New Zealand,Face Sheet Masks,30-01-2022,23152.04,487
+500,Mason Kapoor,Canada,SPF 50 Sunscreen,19-08-2022,6174.38,232
+501,Lucas Verma,India,Tea Tree Moisturizer,07-07-2022,16619.54,425
+502,Lucas Verma,New Zealand,Face Sheet Masks,10-06-2022,3214.37,161
+503,Mason Kapoor,Australia,Vitamin C Cream,13-08-2022,16037.03,475
+504,Lucas Verma,USA,Charcoal Face Wash,30-03-2022,6455.88,299
+505,Isabella Roy,New Zealand,SPF 50 Sunscreen,15-03-2022,20659.54,478
+506,Olivia D'Souza,Canada,Under Eye Cream,19-04-2022,19030.11,434
+507,Noah Mehta,India,Hair Repair Oil,07-05-2022,5042.61,140
+508,Sophia Nair,UK,SPF 50 Sunscreen,11-02-2022,15274.46,350
+509,Mason Kapoor,USA,Charcoal Face Wash,16-03-2022,13934.58,498
+510,Lucas Verma,Australia,SPF 50 Sunscreen,13-08-2022,858.68,73
+511,Ananya Gupta,India,Hair Repair Oil,01-05-2022,10382.3,390
+512,Olivia D'Souza,USA,Hair Repair Oil,27-01-2022,7825.06,499
+513,Mason Kapoor,Canada,Anti-Aging Serum,19-05-2022,329,16
+514,Isabella Roy,Australia,Rose Water Toner,04-07-2022,7014.04,191
+515,Olivia D'Souza,India,Anti-Aging Serum,02-01-2022,9390.28,433
+516,Noah Mehta,New Zealand,SPF 50 Sunscreen,26-08-2022,3368.14,279
+517,Olivia D'Souza,Australia,Aloe Vera Gel,31-07-2022,2200.4,152
+518,Sophia Nair,New Zealand,Face Sheet Masks,11-06-2022,381.6,23
+519,Lucas Verma,USA,Body Butter Cream,26-02-2022,16452.13,440
+520,Noah Mehta,India,Lip Balm Pack,02-07-2022,7364.22,306
+521,Olivia D'Souza,USA,Face Sheet Masks,01-06-2022,11031.64,300
+522,Ethan Reddy,India,Vitamin C Cream,24-02-2022,715.01,37
+523,Ananya Gupta,Canada,Salicylic Acid Cleanser,01-03-2022,5699.19,197
+524,Ava Sharma,India,SPF 50 Sunscreen,16-02-2022,7524.98,189
+525,Sophia Nair,Australia,Hair Repair Oil,01-01-2022,10002.88,253
+526,Liam Patel,New Zealand,Hair Repair Oil,29-05-2022,3812.45,85
+527,Lucas Verma,Australia,Charcoal Face Wash,03-08-2022,6717.5,354
+528,Ananya Gupta,Australia,Tea Tree Moisturizer,09-05-2022,8326.18,167
+529,Isabella Roy,New Zealand,Salicylic Acid Cleanser,31-01-2022,5177.5,120
+530,Ava Sharma,India,Body Butter Cream,02-07-2022,12188.95,362
+531,Olivia D'Souza,India,Hair Repair Oil,23-07-2022,1225.41,80
+532,Liam Patel,UK,Tea Tree Moisturizer,28-04-2022,16191.56,422
+533,Olivia D'Souza,New Zealand,Lip Balm Pack,01-05-2022,10095.38,364
+534,Ava Sharma,USA,Lip Balm Pack,24-03-2022,8901.98,335
+535,Ethan Reddy,India,Under Eye Cream,20-08-2022,1761.2,138
+536,Ava Sharma,UK,Rose Water Toner,02-05-2022,15189.5,308
+537,Ananya Gupta,USA,Anti-Aging Serum,27-01-2022,7077.02,189
+538,Sophia Nair,Australia,Tea Tree Moisturizer,21-06-2022,16495.37,424
+539,Noah Mehta,UK,Vitamin C Cream,27-02-2022,6530.73,215
+540,Noah Mehta,Australia,Under Eye Cream,05-06-2022,12915.63,388
+541,Isabella Roy,Canada,Hydrating Face Serum,06-08-2022,16425.05,375
+542,Olivia D'Souza,Australia,Hair Repair Oil,12-06-2022,6775,352
+543,Lucas Verma,Canada,Lip Balm Pack,24-03-2022,4553.78,237
+544,Liam Patel,USA,Anti-Aging Serum,17-04-2022,20895.19,482
+545,Sophia Nair,UK,Hydrating Face Serum,16-07-2022,14822.36,318
+546,Ethan Reddy,New Zealand,Rose Water Toner,27-03-2022,3428.81,225
+547,Mason Kapoor,USA,Hydrating Face Serum,10-06-2022,2925.47,224
+548,Lucas Verma,Canada,Tea Tree Moisturizer,10-01-2022,19444.09,452
+549,Ethan Reddy,UK,Hair Repair Oil,09-03-2022,8591.2,176
+550,Lucas Verma,UK,Body Butter Cream,30-04-2022,2289.16,167
+551,Ananya Gupta,UK,Hydrating Face Serum,01-06-2022,6384.11,265
+552,Lucas Verma,USA,Hydrating Face Serum,10-01-2022,2747.98,115
+553,Liam Patel,Australia,Aloe Vera Gel,27-04-2022,6324.87,296
+554,Liam Patel,USA,Anti-Aging Serum,19-01-2022,4592.38,155
+555,Olivia D'Souza,UK,Tea Tree Moisturizer,29-05-2022,5016.53,164
+556,Ethan Reddy,USA,Anti-Aging Serum,19-03-2022,636.78,43
+557,Liam Patel,India,Vitamin C Cream,28-03-2022,2948.69,189
+558,Ethan Reddy,Canada,Under Eye Cream,19-04-2022,19971.42,463
+559,Ava Sharma,Australia,Salicylic Acid Cleanser,18-06-2022,8218.19,439
+560,Ethan Reddy,Canada,Niacinamide Toner,21-07-2022,4964.03,225
+561,Ethan Reddy,Australia,Tea Tree Moisturizer,21-02-2022,7881.92,253
+562,Isabella Roy,India,Salicylic Acid Cleanser,28-08-2022,15267.53,321
+563,Isabella Roy,USA,Hair Repair Oil,02-04-2022,16343.94,485
+564,Sophia Nair,USA,Niacinamide Toner,06-01-2022,10904.55,236
+565,Ethan Reddy,USA,Under Eye Cream,16-07-2022,3205,81
+566,Olivia D'Souza,New Zealand,Under Eye Cream,18-01-2022,5771.22,140
+567,Mason Kapoor,Australia,Charcoal Face Wash,24-03-2022,3977.2,80
+568,Noah Mehta,New Zealand,Salicylic Acid Cleanser,21-02-2022,8919.5,363
+569,Mason Kapoor,UK,Vitamin C Cream,06-04-2022,23284.44,499
+570,Isabella Roy,Australia,Face Sheet Masks,27-04-2022,4260.44,103
+571,Ava Sharma,India,Rose Water Toner,14-03-2022,7570.61,159
+572,Ethan Reddy,Australia,Body Butter Cream,31-03-2022,18742.38,469
+573,Mason Kapoor,UK,Anti-Aging Serum,07-07-2022,8787.8,249
+574,Lucas Verma,New Zealand,Under Eye Cream,01-07-2022,16253.66,423
+575,Lucas Verma,India,Aloe Vera Gel,06-05-2022,10789.63,436
+576,Olivia D'Souza,Canada,Under Eye Cream,20-03-2022,841.52,27
+577,Lucas Verma,UK,Under Eye Cream,30-01-2022,5926.16,152
+578,Ava Sharma,Australia,Anti-Aging Serum,02-06-2022,7066.65,221
+579,Olivia D'Souza,New Zealand,Body Butter Cream,01-04-2022,11533.13,427
+580,Ava Sharma,Australia,Tea Tree Moisturizer,10-06-2022,6390.52,146
+581,Sophia Nair,USA,Face Sheet Masks,09-06-2022,444.44,15
+582,Ava Sharma,New Zealand,SPF 50 Sunscreen,15-06-2022,7220.46,171
+583,Noah Mehta,Canada,SPF 50 Sunscreen,24-02-2022,3490.94,120
+584,Mason Kapoor,Canada,Tea Tree Moisturizer,12-08-2022,7408.06,168
+585,Noah Mehta,Canada,Rose Water Toner,31-07-2022,4111.71,175
+586,Ananya Gupta,India,Tea Tree Moisturizer,28-03-2022,3823.54,269
+587,Mason Kapoor,Australia,Lip Balm Pack,06-07-2022,4542.86,186
+588,Noah Mehta,UK,Hydrating Face Serum,29-04-2022,527.39,11
+589,Liam Patel,USA,Anti-Aging Serum,22-02-2022,4013.93,124
+590,Ava Sharma,Australia,Niacinamide Toner,12-01-2022,593.94,38
+591,Ethan Reddy,UK,SPF 50 Sunscreen,08-01-2022,4318.42,175
+592,Sophia Nair,USA,Salicylic Acid Cleanser,15-05-2022,5293.89,144
+593,Noah Mehta,USA,Under Eye Cream,24-01-2022,3165.41,181
+594,Ethan Reddy,USA,Aloe Vera Gel,24-04-2022,5212.22,224
+595,Ananya Gupta,UK,Tea Tree Moisturizer,12-06-2022,4320.88,211
+596,Ananya Gupta,UK,Anti-Aging Serum,27-08-2022,434.03,16
+597,Ava Sharma,USA,Rose Water Toner,22-02-2022,15708.48,486
+598,Noah Mehta,New Zealand,Hair Repair Oil,26-05-2022,411.5,16
+599,Liam Patel,Australia,Face Sheet Masks,30-07-2022,2124.81,101
+600,Noah Mehta,Australia,Vitamin C Cream,12-01-2022,984.79,32
+601,Ananya Gupta,New Zealand,Hydrating Face Serum,26-04-2022,13049.1,327
+602,Olivia D'Souza,India,Body Butter Cream,29-06-2022,956.42,21
+603,Ananya Gupta,New Zealand,SPF 50 Sunscreen,15-04-2022,5712.21,337
+604,Isabella Roy,India,Niacinamide Toner,28-04-2022,6985.76,410
+605,Ethan Reddy,USA,Niacinamide Toner,10-08-2022,10122.81,236
+606,Olivia D'Souza,USA,Lip Balm Pack,22-01-2022,4746.86,321
+607,Ava Sharma,UK,Hydrating Face Serum,19-03-2022,365.6,18
+608,Sophia Nair,New Zealand,Face Sheet Masks,15-08-2022,9791.02,385
+609,Lucas Verma,USA,Vitamin C Cream,23-01-2022,6966.13,364
+610,Noah Mehta,USA,Tea Tree Moisturizer,20-01-2022,14282.35,458
+611,Isabella Roy,Canada,Vitamin C Cream,24-08-2022,2735.77,73
+612,Ethan Reddy,Canada,Hydrating Face Serum,17-02-2022,5503.98,338
+613,Ananya Gupta,UK,Hydrating Face Serum,04-05-2022,10872.5,351
+614,Ananya Gupta,Australia,Aloe Vera Gel,06-01-2022,4158.5,286
+615,Ethan Reddy,Australia,Hair Repair Oil,15-04-2022,23977.48,481
+616,Liam Patel,New Zealand,Charcoal Face Wash,25-08-2022,5031.06,161
+617,Noah Mehta,Canada,Vitamin C Cream,31-05-2022,7460.34,356
+618,Ethan Reddy,USA,Niacinamide Toner,08-07-2022,6613.2,186
+619,Ethan Reddy,New Zealand,Lip Balm Pack,30-04-2022,708.87,36
+620,Isabella Roy,New Zealand,Hydrating Face Serum,16-06-2022,10445.39,306
+621,Sophia Nair,Australia,Vitamin C Cream,11-04-2022,5797.63,254
+622,Sophia Nair,India,Anti-Aging Serum,19-03-2022,10473.97,441
+623,Isabella Roy,Canada,Hair Repair Oil,15-07-2022,1372.66,33
+624,Isabella Roy,New Zealand,SPF 50 Sunscreen,03-03-2022,11414.54,333
+625,Noah Mehta,India,Vitamin C Cream,16-05-2022,631.36,41
+626,Lucas Verma,Australia,Anti-Aging Serum,30-03-2022,6093.04,357
+627,Olivia D'Souza,Australia,Hair Repair Oil,13-04-2022,3335.93,270
+628,Isabella Roy,USA,Lip Balm Pack,11-06-2022,15130.24,384
+629,Liam Patel,Australia,Charcoal Face Wash,05-03-2022,3321.69,145
+630,Sophia Nair,New Zealand,Aloe Vera Gel,16-08-2022,2336.36,119
+631,Noah Mehta,USA,Hydrating Face Serum,15-04-2022,19443.77,420
+632,Olivia D'Souza,Canada,Tea Tree Moisturizer,31-01-2022,4534.5,161
+633,Ananya Gupta,UK,Hydrating Face Serum,24-08-2022,1027.1,69
+634,Ethan Reddy,India,Hair Repair Oil,15-03-2022,2883,66
+635,Mason Kapoor,New Zealand,Charcoal Face Wash,08-01-2022,2593.64,66
+636,Mason Kapoor,UK,Hydrating Face Serum,03-04-2022,5802.73,433
+637,Ethan Reddy,Australia,Hydrating Face Serum,18-05-2022,11992.11,257
+638,Ananya Gupta,USA,Hair Repair Oil,07-02-2022,352.92,30
+639,Ava Sharma,New Zealand,Tea Tree Moisturizer,28-05-2022,7024.11,190
+640,Sophia Nair,New Zealand,Hair Repair Oil,31-05-2022,2884.52,118
+641,Ananya Gupta,USA,Face Sheet Masks,26-06-2022,5022.76,154
+642,Ananya Gupta,New Zealand,Lip Balm Pack,18-08-2022,5250.58,299
+643,Ethan Reddy,USA,Niacinamide Toner,09-05-2022,2584.15,108
+644,Mason Kapoor,USA,Vitamin C Cream,13-07-2022,8581.27,190
+645,Sophia Nair,New Zealand,Lip Balm Pack,03-06-2022,559.73,12
+646,Olivia D'Souza,India,Face Sheet Masks,07-06-2022,12905.06,498
+647,Sophia Nair,USA,Hair Repair Oil,24-06-2022,13509.42,296
+648,Ananya Gupta,India,Salicylic Acid Cleanser,29-05-2022,3116.98,148
+649,Isabella Roy,USA,Anti-Aging Serum,05-06-2022,1123.46,56
+650,Ethan Reddy,USA,Niacinamide Toner,30-03-2022,18188.8,495
+651,Mason Kapoor,USA,Rose Water Toner,25-01-2022,8484.94,317
+652,Sophia Nair,New Zealand,Aloe Vera Gel,22-07-2022,6693.75,476
+653,Noah Mehta,New Zealand,Body Butter Cream,27-06-2022,9682.74,394
+654,Isabella Roy,Australia,Anti-Aging Serum,19-01-2022,3241.7,232
+655,Liam Patel,India,Tea Tree Moisturizer,29-03-2022,10885.26,233
+656,Olivia D'Souza,USA,Anti-Aging Serum,24-06-2022,4934.32,194
+657,Ethan Reddy,New Zealand,Anti-Aging Serum,24-03-2022,21726.67,436
+658,Ethan Reddy,New Zealand,Body Butter Cream,18-04-2022,5873.54,355
+659,Ananya Gupta,Canada,Salicylic Acid Cleanser,10-07-2022,9561.31,268
+660,Ananya Gupta,Australia,Charcoal Face Wash,26-02-2022,3463.01,74
+661,Isabella Roy,USA,Charcoal Face Wash,23-06-2022,136.05,11
+662,Olivia D'Souza,Australia,Lip Balm Pack,21-05-2022,3525.11,215
+663,Olivia D'Souza,Australia,Charcoal Face Wash,08-04-2022,4819.15,332
+664,Liam Patel,Canada,Niacinamide Toner,21-08-2022,5661.96,136
+665,Isabella Roy,Australia,Vitamin C Cream,28-01-2022,980.84,39
+666,Lucas Verma,Australia,Charcoal Face Wash,05-08-2022,1430.77,38
+667,Noah Mehta,India,Niacinamide Toner,27-07-2022,1178.22,40
+668,Lucas Verma,New Zealand,Body Butter Cream,18-02-2022,9645.48,286
+669,Mason Kapoor,New Zealand,Hydrating Face Serum,11-02-2022,3703.09,141
+670,Ava Sharma,New Zealand,SPF 50 Sunscreen,28-02-2022,10465.99,393
+671,Sophia Nair,India,Vitamin C Cream,27-03-2022,11297.48,314
+672,Ananya Gupta,USA,Anti-Aging Serum,26-07-2022,9203.38,400
+673,Lucas Verma,India,Face Sheet Masks,07-07-2022,10092.43,239
+674,Ethan Reddy,New Zealand,Hair Repair Oil,11-07-2022,2394.9,84
+675,Ethan Reddy,Australia,Vitamin C Cream,31-01-2022,4157.41,264
+676,Mason Kapoor,Australia,Tea Tree Moisturizer,28-06-2022,3986.46,140
+677,Sophia Nair,New Zealand,Lip Balm Pack,03-06-2022,16045.86,477
+678,Ethan Reddy,New Zealand,Aloe Vera Gel,27-01-2022,5616.37,246
+679,Isabella Roy,India,Under Eye Cream,11-08-2022,1741.42,42
+680,Mason Kapoor,Australia,Niacinamide Toner,27-07-2022,4344.35,109
+681,Liam Patel,USA,Body Butter Cream,09-03-2022,8483.48,342
+682,Olivia D'Souza,New Zealand,Salicylic Acid Cleanser,06-05-2022,723.29,27
+683,Lucas Verma,UK,Salicylic Acid Cleanser,20-01-2022,4476,343
+684,Sophia Nair,New Zealand,SPF 50 Sunscreen,09-05-2022,13449.54,299
+685,Ananya Gupta,New Zealand,Niacinamide Toner,27-07-2022,13220.1,305
+686,Olivia D'Souza,Australia,SPF 50 Sunscreen,03-06-2022,16987.7,411
+687,Ananya Gupta,Australia,Lip Balm Pack,10-07-2022,9085.51,237
+688,Olivia D'Souza,USA,Anti-Aging Serum,27-06-2022,11544.08,423
+689,Olivia D'Souza,USA,Vitamin C Cream,23-04-2022,12587.78,297
+690,Liam Patel,Canada,Salicylic Acid Cleanser,17-04-2022,12202.64,321
+691,Ava Sharma,UK,SPF 50 Sunscreen,23-01-2022,6319.71,366
+692,Olivia D'Souza,New Zealand,Under Eye Cream,18-02-2022,16902.63,472
+693,Liam Patel,India,Tea Tree Moisturizer,03-08-2022,5408.77,412
+694,Ananya Gupta,New Zealand,Face Sheet Masks,02-05-2022,11725.2,314
+695,Liam Patel,Canada,Tea Tree Moisturizer,22-04-2022,9669.71,376
+696,Ananya Gupta,New Zealand,Vitamin C Cream,03-01-2022,2875.15,201
+697,Sophia Nair,India,Anti-Aging Serum,11-03-2022,14214.55,447
+698,Mason Kapoor,India,Body Butter Cream,05-03-2022,1195.52,29
+699,Olivia D'Souza,Australia,Under Eye Cream,04-05-2022,16375.54,491
+700,Ethan Reddy,New Zealand,Aloe Vera Gel,24-03-2022,8190.32,240
+701,Ethan Reddy,New Zealand,Under Eye Cream,24-05-2022,19125.15,488
+702,Lucas Verma,Australia,Hair Repair Oil,15-04-2022,585.65,20
+703,Lucas Verma,UK,Aloe Vera Gel,26-03-2022,20317.26,485
+704,Mason Kapoor,New Zealand,Rose Water Toner,07-08-2022,9887.34,320
+705,Sophia Nair,Canada,Anti-Aging Serum,31-07-2022,8194.42,276
+706,Isabella Roy,Australia,Under Eye Cream,26-03-2022,7471.71,491
+707,Sophia Nair,UK,SPF 50 Sunscreen,02-06-2022,7060.26,142
+708,Olivia D'Souza,UK,Salicylic Acid Cleanser,02-06-2022,13053.64,282
+709,Mason Kapoor,USA,Anti-Aging Serum,29-04-2022,8399.02,181
+710,Olivia D'Souza,UK,Hydrating Face Serum,11-03-2022,7990.6,199
+711,Olivia D'Souza,Australia,Aloe Vera Gel,25-07-2022,11098.01,225
+712,Lucas Verma,Australia,Body Butter Cream,03-05-2022,19951.07,426
+713,Lucas Verma,Australia,Hydrating Face Serum,08-01-2022,119.82,10
+714,Sophia Nair,USA,Anti-Aging Serum,02-01-2022,12551.57,377
+715,Noah Mehta,USA,Rose Water Toner,29-07-2022,7718.1,265
+716,Ananya Gupta,New Zealand,Body Butter Cream,29-07-2022,6264.79,163
+717,Ethan Reddy,Australia,Niacinamide Toner,06-01-2022,1617.05,69
+718,Isabella Roy,India,Charcoal Face Wash,26-03-2022,2630.52,64
+719,Olivia D'Souza,USA,SPF 50 Sunscreen,28-08-2022,5024.53,251
+720,Lucas Verma,Canada,Hair Repair Oil,27-01-2022,19586.58,451
+721,Lucas Verma,Canada,Under Eye Cream,11-07-2022,1905.06,40
+722,Mason Kapoor,India,Anti-Aging Serum,12-04-2022,5032.22,474
+723,Isabella Roy,UK,Tea Tree Moisturizer,19-04-2022,7678.26,236
+724,Olivia D'Souza,UK,Vitamin C Cream,10-02-2022,20181,409
+725,Olivia D'Souza,Canada,Anti-Aging Serum,04-01-2022,8709.22,178
+726,Liam Patel,UK,Face Sheet Masks,01-08-2022,18763.82,444
+727,Lucas Verma,Australia,Hair Repair Oil,20-03-2022,11343.37,269
+728,Liam Patel,UK,Vitamin C Cream,13-06-2022,4905.1,248
+729,Ava Sharma,USA,Charcoal Face Wash,17-03-2022,10071.75,204
+730,Sophia Nair,Canada,Hair Repair Oil,31-07-2022,5025.69,133
+731,Olivia D'Souza,New Zealand,Charcoal Face Wash,30-08-2022,1274.86,81
+732,Noah Mehta,USA,Face Sheet Masks,05-04-2022,2848.07,193
+733,Isabella Roy,Australia,Rose Water Toner,19-06-2022,5431.35,152
+734,Olivia D'Souza,UK,Rose Water Toner,21-06-2022,23090.87,482
+735,Ananya Gupta,Australia,Anti-Aging Serum,11-06-2022,13289.99,273
+736,Isabella Roy,Canada,SPF 50 Sunscreen,02-04-2022,14114.16,422
+737,Liam Patel,Australia,Charcoal Face Wash,14-03-2022,3064.72,251
+738,Noah Mehta,UK,Lip Balm Pack,03-07-2022,13987.08,372
+739,Olivia D'Souza,UK,Niacinamide Toner,18-07-2022,17890.38,457
+740,Ananya Gupta,UK,Tea Tree Moisturizer,01-08-2022,11345.7,487
+741,Liam Patel,USA,Under Eye Cream,05-05-2022,3795.64,206
+742,Lucas Verma,USA,SPF 50 Sunscreen,26-07-2022,1004.71,21
+743,Liam Patel,Australia,Vitamin C Cream,30-05-2022,5575.62,371
+744,Ananya Gupta,New Zealand,Hydrating Face Serum,07-05-2022,12563.44,420
+745,Ananya Gupta,USA,Lip Balm Pack,21-06-2022,4983.24,143
+746,Sophia Nair,New Zealand,Salicylic Acid Cleanser,16-08-2022,782.09,19
+747,Liam Patel,UK,Vitamin C Cream,17-08-2022,17614.9,386
+748,Lucas Verma,Canada,Aloe Vera Gel,30-04-2022,7897.13,358
+749,Ethan Reddy,UK,Aloe Vera Gel,25-01-2022,16376.88,449
+750,Ananya Gupta,India,Body Butter Cream,22-08-2022,5599.68,264
+751,Ananya Gupta,New Zealand,Salicylic Acid Cleanser,26-08-2022,2966.47,144
+752,Sophia Nair,UK,Body Butter Cream,19-05-2022,6828.68,484
+753,Ananya Gupta,UK,Lip Balm Pack,27-08-2022,2555.95,192
+754,Ananya Gupta,New Zealand,Rose Water Toner,29-04-2022,832.92,19
+755,Sophia Nair,New Zealand,Tea Tree Moisturizer,15-07-2022,997.96,36
+756,Isabella Roy,New Zealand,Lip Balm Pack,04-02-2022,7754.36,466
+757,Noah Mehta,India,Aloe Vera Gel,16-05-2022,5507.19,176
+758,Olivia D'Souza,Australia,Body Butter Cream,27-01-2022,1119.66,87
+759,Sophia Nair,USA,Face Sheet Masks,02-06-2022,6853.59,384
+760,Ava Sharma,USA,Hair Repair Oil,06-04-2022,12147.98,254
+761,Lucas Verma,New Zealand,Aloe Vera Gel,26-07-2022,923.46,79
+762,Ava Sharma,Canada,Salicylic Acid Cleanser,10-01-2022,442.07,24
+763,Liam Patel,Canada,Aloe Vera Gel,04-01-2022,3900.37,83
+764,Ava Sharma,New Zealand,Body Butter Cream,02-06-2022,801.63,25
+765,Isabella Roy,India,Aloe Vera Gel,03-03-2022,10101.78,251
+766,Sophia Nair,Canada,Vitamin C Cream,29-05-2022,6600.15,417
+767,Lucas Verma,USA,Niacinamide Toner,28-05-2022,5302.98,258
+768,Noah Mehta,UK,Under Eye Cream,02-08-2022,6310.09,257
+769,Noah Mehta,Canada,Hydrating Face Serum,17-07-2022,2369.18,211
+770,Sophia Nair,UK,Aloe Vera Gel,14-05-2022,16418.97,358
+771,Olivia D'Souza,New Zealand,Vitamin C Cream,15-01-2022,10774.83,226
+772,Sophia Nair,Australia,Niacinamide Toner,13-04-2022,5958.48,162
+773,Olivia D'Souza,USA,Tea Tree Moisturizer,22-07-2022,1194.96,74
+774,Isabella Roy,Australia,Charcoal Face Wash,11-04-2022,314.68,18
+775,Mason Kapoor,Australia,Anti-Aging Serum,18-06-2022,1442.65,91
+776,Liam Patel,USA,Under Eye Cream,12-06-2022,2810.34,78
+777,Mason Kapoor,UK,Under Eye Cream,13-01-2022,1394.62,57
+778,Liam Patel,Australia,Niacinamide Toner,02-04-2022,8143.6,213
+779,Mason Kapoor,UK,Body Butter Cream,10-07-2022,12885.94,340
+780,Liam Patel,Canada,Lip Balm Pack,03-08-2022,16223.13,362
+781,Noah Mehta,UK,Face Sheet Masks,18-03-2022,8330.47,217
+782,Mason Kapoor,New Zealand,Rose Water Toner,19-06-2022,5384.2,290
+783,Ava Sharma,India,Hydrating Face Serum,07-03-2022,19594.27,450
+784,Ava Sharma,New Zealand,Vitamin C Cream,27-05-2022,12213.24,266
+785,Lucas Verma,UK,Hydrating Face Serum,11-05-2022,4242.56,357
+786,Mason Kapoor,Australia,Face Sheet Masks,20-03-2022,13379.16,498
+787,Lucas Verma,Australia,Tea Tree Moisturizer,25-03-2022,9353.99,246
+788,Ananya Gupta,New Zealand,Vitamin C Cream,26-08-2022,5032.73,147
+789,Mason Kapoor,UK,Lip Balm Pack,09-01-2022,3041.08,103
+790,Ananya Gupta,Canada,Hair Repair Oil,25-03-2022,3258.73,150
+791,Liam Patel,USA,Anti-Aging Serum,17-05-2022,10452.26,242
+792,Ethan Reddy,USA,Hydrating Face Serum,29-05-2022,8642.86,298
+793,Ananya Gupta,India,Rose Water Toner,31-03-2022,2523.86,102
+794,Ethan Reddy,Canada,Charcoal Face Wash,07-05-2022,11599.9,324
+795,Liam Patel,New Zealand,SPF 50 Sunscreen,27-05-2022,15606.61,331
+796,Mason Kapoor,New Zealand,Lip Balm Pack,13-07-2022,9583.51,312
+797,Noah Mehta,New Zealand,Tea Tree Moisturizer,13-08-2022,10192.85,373
+798,Olivia D'Souza,USA,Hydrating Face Serum,02-05-2022,21701.44,483
+799,Sophia Nair,India,Hair Repair Oil,28-08-2022,6496.58,366
+800,Ananya Gupta,New Zealand,Body Butter Cream,02-02-2022,16383.31,438
+801,Mason Kapoor,New Zealand,Body Butter Cream,03-06-2022,15834.45,361
+802,Noah Mehta,UK,Lip Balm Pack,17-05-2022,7501.02,489
+803,Noah Mehta,UK,Hydrating Face Serum,24-06-2022,922.43,29
+804,Ananya Gupta,India,Salicylic Acid Cleanser,28-04-2022,6141.45,213
+805,Noah Mehta,New Zealand,Rose Water Toner,23-03-2022,1745.79,156
+806,Liam Patel,New Zealand,Charcoal Face Wash,25-03-2022,7268.2,198
+807,Sophia Nair,UK,SPF 50 Sunscreen,25-04-2022,424.38,30
+808,Noah Mehta,New Zealand,Body Butter Cream,08-04-2022,10711.79,331
+809,Noah Mehta,USA,Vitamin C Cream,23-03-2022,8154.9,248
+810,Ava Sharma,New Zealand,Tea Tree Moisturizer,25-07-2022,5132.41,454
+811,Isabella Roy,India,Vitamin C Cream,21-03-2022,6538.2,264
+812,Ethan Reddy,USA,Rose Water Toner,11-07-2022,13625.75,406
+813,Isabella Roy,Australia,SPF 50 Sunscreen,18-06-2022,3344.35,244
+814,Sophia Nair,India,Aloe Vera Gel,02-03-2022,11456.29,325
+815,Ava Sharma,India,Hair Repair Oil,19-04-2022,8946.01,434
+816,Ananya Gupta,Australia,Hair Repair Oil,16-01-2022,15120.74,360
+817,Ethan Reddy,Canada,Under Eye Cream,01-04-2022,9372.51,274
+818,Ananya Gupta,UK,Hydrating Face Serum,22-05-2022,4531.42,107
+819,Noah Mehta,USA,Aloe Vera Gel,13-01-2022,16283.5,456
+820,Ava Sharma,Canada,Tea Tree Moisturizer,24-01-2022,10108.84,402
+821,Noah Mehta,UK,Body Butter Cream,12-08-2022,3801.03,202
+822,Liam Patel,USA,Anti-Aging Serum,08-07-2022,1308.08,51
+823,Noah Mehta,Canada,Face Sheet Masks,09-07-2022,13195,285
+824,Isabella Roy,Australia,Niacinamide Toner,25-04-2022,5223.33,152
+825,Olivia D'Souza,Canada,Salicylic Acid Cleanser,30-08-2022,6102.47,146
+826,Noah Mehta,Australia,Hydrating Face Serum,29-06-2022,8416.43,237
+827,Isabella Roy,Canada,Under Eye Cream,22-05-2022,8215.87,334
+828,Sophia Nair,Canada,SPF 50 Sunscreen,29-03-2022,6936.38,322
+829,Olivia D'Souza,New Zealand,Under Eye Cream,04-03-2022,2422.62,180
+830,Lucas Verma,USA,Anti-Aging Serum,13-01-2022,17090.34,366
+831,Ava Sharma,Canada,Hydrating Face Serum,23-02-2022,10497.39,324
+832,Sophia Nair,UK,Under Eye Cream,29-08-2022,569.78,14
+833,Olivia D'Souza,UK,Hydrating Face Serum,15-03-2022,4103.17,124
+834,Isabella Roy,Australia,SPF 50 Sunscreen,26-08-2022,891.11,73
+835,Isabella Roy,UK,Hydrating Face Serum,18-01-2022,14127.27,465
+836,Olivia D'Souza,USA,Aloe Vera Gel,25-03-2022,5150.27,218
+837,Noah Mehta,USA,Face Sheet Masks,08-03-2022,146.7,13
+838,Sophia Nair,New Zealand,Hair Repair Oil,17-02-2022,3812.92,118
+839,Mason Kapoor,USA,Niacinamide Toner,23-07-2022,9450.04,218
+840,Noah Mehta,UK,Face Sheet Masks,14-02-2022,6457.54,293
+841,Olivia D'Souza,UK,Under Eye Cream,19-02-2022,7925.54,309
+842,Lucas Verma,USA,Tea Tree Moisturizer,13-04-2022,16861.45,385
+843,Lucas Verma,New Zealand,Salicylic Acid Cleanser,17-08-2022,1650.87,72
+844,Ananya Gupta,Australia,Hair Repair Oil,15-07-2022,19861.82,424
+845,Isabella Roy,Canada,Body Butter Cream,08-06-2022,10647.12,234
+846,Olivia D'Souza,Australia,SPF 50 Sunscreen,03-06-2022,1564.91,49
+847,Liam Patel,India,Tea Tree Moisturizer,10-01-2022,2126.3,89
+848,Liam Patel,India,Niacinamide Toner,09-04-2022,2893.74,204
+849,Isabella Roy,Australia,Tea Tree Moisturizer,17-04-2022,13434.96,283
+850,Ethan Reddy,India,Lip Balm Pack,05-07-2022,8273.51,169
+851,Noah Mehta,UK,Charcoal Face Wash,07-04-2022,4063.64,149
+852,Olivia D'Souza,UK,Aloe Vera Gel,06-08-2022,6650.47,471
+853,Liam Patel,USA,Hydrating Face Serum,08-02-2022,4463.32,295
+854,Ava Sharma,USA,SPF 50 Sunscreen,10-03-2022,16996.07,471
+855,Olivia D'Souza,UK,Tea Tree Moisturizer,30-08-2022,4768.41,183
+856,Isabella Roy,Australia,Face Sheet Masks,30-03-2022,18046.13,401
+857,Mason Kapoor,USA,Aloe Vera Gel,18-05-2022,868.92,46
+858,Liam Patel,Australia,Charcoal Face Wash,26-01-2022,4759.75,96
+859,Isabella Roy,USA,Rose Water Toner,22-03-2022,19576.41,402
+860,Sophia Nair,USA,Lip Balm Pack,20-06-2022,4824.94,235
+861,Isabella Roy,Canada,Hair Repair Oil,19-05-2022,5555.52,150
+862,Lucas Verma,USA,Aloe Vera Gel,28-01-2022,6004.2,126
+863,Sophia Nair,USA,SPF 50 Sunscreen,06-04-2022,12369.81,456
+864,Noah Mehta,UK,Lip Balm Pack,23-05-2022,861.89,29
+865,Ava Sharma,Australia,Vitamin C Cream,11-03-2022,6048.32,360
+866,Sophia Nair,India,Body Butter Cream,02-06-2022,15051.5,418
+867,Mason Kapoor,UK,Under Eye Cream,18-05-2022,756.72,24
+868,Isabella Roy,Canada,Salicylic Acid Cleanser,22-06-2022,534.64,22
+869,Ava Sharma,Canada,Aloe Vera Gel,11-04-2022,12424.63,360
+870,Liam Patel,India,Face Sheet Masks,18-05-2022,15136.25,354
+871,Liam Patel,UK,Face Sheet Masks,28-03-2022,580.35,31
+872,Ananya Gupta,India,Charcoal Face Wash,30-08-2022,5804.87,119
+873,Noah Mehta,New Zealand,Face Sheet Masks,30-01-2022,23152.04,487
+874,Mason Kapoor,Canada,SPF 50 Sunscreen,19-08-2022,6174.38,232
+875,Lucas Verma,India,Tea Tree Moisturizer,07-07-2022,16619.54,425
+876,Lucas Verma,New Zealand,Face Sheet Masks,10-06-2022,3214.37,161
+877,Mason Kapoor,Australia,Vitamin C Cream,13-08-2022,16037.03,475
+878,Lucas Verma,USA,Charcoal Face Wash,30-03-2022,6455.88,299
+879,Isabella Roy,New Zealand,SPF 50 Sunscreen,15-03-2022,20659.54,478
+880,Olivia D'Souza,Canada,Under Eye Cream,19-04-2022,19030.11,434
+881,Noah Mehta,India,Hair Repair Oil,07-05-2022,5042.61,140
+882,Sophia Nair,UK,SPF 50 Sunscreen,11-02-2022,15274.46,350
+883,Mason Kapoor,USA,Charcoal Face Wash,16-03-2022,13934.58,498
+884,Lucas Verma,Australia,SPF 50 Sunscreen,13-08-2022,858.68,73
+885,Ananya Gupta,India,Hair Repair Oil,01-05-2022,10382.3,390
+886,Olivia D'Souza,USA,Hair Repair Oil,27-01-2022,7825.06,499
+887,Mason Kapoor,Canada,Anti-Aging Serum,19-05-2022,329,16
+888,Isabella Roy,Australia,Rose Water Toner,04-07-2022,7014.04,191
+889,Olivia D'Souza,India,Anti-Aging Serum,02-01-2022,9390.28,433
+890,Noah Mehta,New Zealand,SPF 50 Sunscreen,26-08-2022,3368.14,279
+891,Olivia D'Souza,Australia,Aloe Vera Gel,31-07-2022,2200.4,152
+892,Sophia Nair,New Zealand,Face Sheet Masks,11-06-2022,381.6,23
+893,Lucas Verma,USA,Body Butter Cream,26-02-2022,16452.13,440
+894,Noah Mehta,India,Lip Balm Pack,02-07-2022,7364.22,306
+895,Olivia D'Souza,USA,Face Sheet Masks,01-06-2022,11031.64,300
+896,Ethan Reddy,India,Vitamin C Cream,24-02-2022,715.01,37
+897,Ananya Gupta,Canada,Salicylic Acid Cleanser,01-03-2022,5699.19,197
+898,Ava Sharma,India,SPF 50 Sunscreen,16-02-2022,7524.98,189
+899,Sophia Nair,Australia,Hair Repair Oil,01-01-2022,10002.88,253
+900,Liam Patel,New Zealand,Hair Repair Oil,29-05-2022,3812.45,85
+901,Lucas Verma,Australia,Charcoal Face Wash,03-08-2022,6717.5,354
+902,Ananya Gupta,Australia,Tea Tree Moisturizer,09-05-2022,8326.18,167
+903,Isabella Roy,New Zealand,Salicylic Acid Cleanser,31-01-2022,5177.5,120
+904,Ava Sharma,India,Body Butter Cream,02-07-2022,12188.95,362
+905,Olivia D'Souza,India,Hair Repair Oil,23-07-2022,1225.41,80
+906,Liam Patel,UK,Tea Tree Moisturizer,28-04-2022,16191.56,422
+907,Olivia D'Souza,New Zealand,Lip Balm Pack,01-05-2022,10095.38,364
+908,Ava Sharma,USA,Lip Balm Pack,24-03-2022,8901.98,335
+909,Ethan Reddy,India,Under Eye Cream,20-08-2022,1761.2,138
+910,Ava Sharma,UK,Rose Water Toner,02-05-2022,15189.5,308
+911,Ananya Gupta,USA,Anti-Aging Serum,27-01-2022,7077.02,189
+912,Sophia Nair,Australia,Tea Tree Moisturizer,21-06-2022,16495.37,424
+913,Noah Mehta,UK,Vitamin C Cream,27-02-2022,6530.73,215
+914,Noah Mehta,Australia,Under Eye Cream,05-06-2022,12915.63,388
+915,Isabella Roy,Canada,Hydrating Face Serum,06-08-2022,16425.05,375
+916,Olivia D'Souza,Australia,Hair Repair Oil,12-06-2022,6775,352
+917,Lucas Verma,Canada,Lip Balm Pack,24-03-2022,4553.78,237
+918,Liam Patel,USA,Anti-Aging Serum,17-04-2022,20895.19,482
+919,Sophia Nair,UK,Hydrating Face Serum,16-07-2022,14822.36,318
+920,Ethan Reddy,New Zealand,Rose Water Toner,27-03-2022,3428.81,225
+921,Mason Kapoor,USA,Hydrating Face Serum,10-06-2022,2925.47,224
+922,Lucas Verma,Canada,Tea Tree Moisturizer,10-01-2022,19444.09,452
+923,Ethan Reddy,UK,Hair Repair Oil,09-03-2022,8591.2,176
+924,Lucas Verma,UK,Body Butter Cream,30-04-2022,2289.16,167
+925,Ananya Gupta,UK,Hydrating Face Serum,01-06-2022,6384.11,265
+926,Lucas Verma,USA,Hydrating Face Serum,10-01-2022,2747.98,115
+927,Liam Patel,Australia,Aloe Vera Gel,27-04-2022,6324.87,296
+928,Liam Patel,USA,Anti-Aging Serum,19-01-2022,4592.38,155
+929,Olivia D'Souza,UK,Tea Tree Moisturizer,29-05-2022,5016.53,164
+930,Ethan Reddy,USA,Anti-Aging Serum,19-03-2022,636.78,43
+931,Liam Patel,India,Vitamin C Cream,28-03-2022,2948.69,189
+932,Ethan Reddy,Canada,Under Eye Cream,19-04-2022,19971.42,463
+933,Ava Sharma,Australia,Salicylic Acid Cleanser,18-06-2022,8218.19,439
+934,Ethan Reddy,Canada,Niacinamide Toner,21-07-2022,4964.03,225
+935,Ethan Reddy,Australia,Tea Tree Moisturizer,21-02-2022,7881.92,253
+936,Isabella Roy,India,Salicylic Acid Cleanser,28-08-2022,15267.53,321
+937,Isabella Roy,USA,Hair Repair Oil,02-04-2022,16343.94,485
+938,Sophia Nair,USA,Niacinamide Toner,06-01-2022,10904.55,236
+939,Ethan Reddy,USA,Under Eye Cream,16-07-2022,3205,81
+940,Olivia D'Souza,New Zealand,Under Eye Cream,18-01-2022,5771.22,140
+941,Mason Kapoor,Australia,Charcoal Face Wash,24-03-2022,3977.2,80
+942,Noah Mehta,New Zealand,Salicylic Acid Cleanser,21-02-2022,8919.5,363
+943,Mason Kapoor,UK,Vitamin C Cream,06-04-2022,23284.44,499
+944,Isabella Roy,Australia,Face Sheet Masks,27-04-2022,4260.44,103
+945,Ava Sharma,India,Rose Water Toner,14-03-2022,7570.61,159
+946,Ethan Reddy,Australia,Body Butter Cream,31-03-2022,18742.38,469
+947,Mason Kapoor,UK,Anti-Aging Serum,07-07-2022,8787.8,249
+948,Lucas Verma,New Zealand,Under Eye Cream,01-07-2022,16253.66,423
+949,Lucas Verma,India,Aloe Vera Gel,06-05-2022,10789.63,436
+950,Olivia D'Souza,Canada,Under Eye Cream,20-03-2022,841.52,27
+951,Lucas Verma,UK,Under Eye Cream,30-01-2022,5926.16,152
+952,Ava Sharma,Australia,Anti-Aging Serum,02-06-2022,7066.65,221
+953,Olivia D'Souza,New Zealand,Body Butter Cream,01-04-2022,11533.13,427
+954,Ava Sharma,Australia,Tea Tree Moisturizer,10-06-2022,6390.52,146
+955,Sophia Nair,USA,Face Sheet Masks,09-06-2022,444.44,15
+956,Ava Sharma,New Zealand,SPF 50 Sunscreen,15-06-2022,7220.46,171
+957,Noah Mehta,Canada,SPF 50 Sunscreen,24-02-2022,3490.94,120
+958,Mason Kapoor,Canada,Tea Tree Moisturizer,12-08-2022,7408.06,168
+959,Noah Mehta,Canada,Rose Water Toner,31-07-2022,4111.71,175
+960,Ananya Gupta,India,Tea Tree Moisturizer,28-03-2022,3823.54,269
+961,Mason Kapoor,Australia,Lip Balm Pack,06-07-2022,4542.86,186
+962,Noah Mehta,UK,Hydrating Face Serum,29-04-2022,527.39,11
+963,Liam Patel,USA,Anti-Aging Serum,22-02-2022,4013.93,124
+964,Ava Sharma,Australia,Niacinamide Toner,12-01-2022,593.94,38
+965,Ethan Reddy,UK,SPF 50 Sunscreen,08-01-2022,4318.42,175
+966,Sophia Nair,USA,Salicylic Acid Cleanser,15-05-2022,5293.89,144
+967,Noah Mehta,USA,Under Eye Cream,24-01-2022,3165.41,181
+968,Ethan Reddy,USA,Aloe Vera Gel,24-04-2022,5212.22,224
+969,Ananya Gupta,UK,Tea Tree Moisturizer,12-06-2022,4320.88,211
+970,Ananya Gupta,UK,Anti-Aging Serum,27-08-2022,434.03,16
+971,Ava Sharma,USA,Rose Water Toner,22-02-2022,15708.48,486
+972,Noah Mehta,New Zealand,Hair Repair Oil,26-05-2022,411.5,16
+973,Liam Patel,Australia,Face Sheet Masks,30-07-2022,2124.81,101
+974,Noah Mehta,Australia,Vitamin C Cream,12-01-2022,984.79,32
+975,Ananya Gupta,New Zealand,Hydrating Face Serum,26-04-2022,13049.1,327
+976,Olivia D'Souza,India,Body Butter Cream,29-06-2022,956.42,21
+977,Ananya Gupta,New Zealand,SPF 50 Sunscreen,15-04-2022,5712.21,337
+978,Isabella Roy,India,Niacinamide Toner,28-04-2022,6985.76,410
+979,Ethan Reddy,USA,Niacinamide Toner,10-08-2022,10122.81,236
+980,Olivia D'Souza,USA,Lip Balm Pack,22-01-2022,4746.86,321
+981,Ava Sharma,UK,Hydrating Face Serum,19-03-2022,365.6,18
+982,Sophia Nair,New Zealand,Face Sheet Masks,15-08-2022,9791.02,385
+983,Lucas Verma,USA,Vitamin C Cream,23-01-2022,6966.13,364
+984,Noah Mehta,USA,Tea Tree Moisturizer,20-01-2022,14282.35,458
+985,Isabella Roy,Canada,Vitamin C Cream,24-08-2022,2735.77,73
+986,Ethan Reddy,Canada,Hydrating Face Serum,17-02-2022,5503.98,338
+987,Ananya Gupta,UK,Hydrating Face Serum,04-05-2022,10872.5,351
+988,Ananya Gupta,Australia,Aloe Vera Gel,06-01-2022,4158.5,286
+989,Ethan Reddy,Australia,Hair Repair Oil,15-04-2022,23977.48,481
+990,Liam Patel,New Zealand,Charcoal Face Wash,25-08-2022,5031.06,161
+991,Noah Mehta,Canada,Vitamin C Cream,31-05-2022,7460.34,356
+992,Ethan Reddy,USA,Niacinamide Toner,08-07-2022,6613.2,186
+993,Ethan Reddy,New Zealand,Lip Balm Pack,30-04-2022,708.87,36
+994,Isabella Roy,New Zealand,Hydrating Face Serum,16-06-2022,10445.39,306
+995,Sophia Nair,Australia,Vitamin C Cream,11-04-2022,5797.63,254
+996,Sophia Nair,India,Anti-Aging Serum,19-03-2022,10473.97,441
+997,Isabella Roy,Canada,Hair Repair Oil,15-07-2022,1372.66,33
+998,Isabella Roy,New Zealand,SPF 50 Sunscreen,03-03-2022,11414.54,333
+999,Noah Mehta,India,Vitamin C Cream,16-05-2022,631.36,41
+1000,Lucas Verma,Australia,Anti-Aging Serum,30-03-2022,6093.04,357
+1001,Olivia D'Souza,Australia,Hair Repair Oil,13-04-2022,3335.93,270
+1002,Isabella Roy,USA,Lip Balm Pack,11-06-2022,15130.24,384
+1003,Liam Patel,Australia,Charcoal Face Wash,05-03-2022,3321.69,145
+1004,Sophia Nair,New Zealand,Aloe Vera Gel,16-08-2022,2336.36,119
+1005,Noah Mehta,USA,Hydrating Face Serum,15-04-2022,19443.77,420
+1006,Olivia D'Souza,Canada,Tea Tree Moisturizer,31-01-2022,4534.5,161
+1007,Ananya Gupta,UK,Hydrating Face Serum,24-08-2022,1027.1,69
+1008,Ethan Reddy,India,Hair Repair Oil,15-03-2022,2883,66
+1009,Mason Kapoor,New Zealand,Charcoal Face Wash,08-01-2022,2593.64,66
+1010,Mason Kapoor,UK,Hydrating Face Serum,03-04-2022,5802.73,433
+1011,Ethan Reddy,Australia,Hydrating Face Serum,18-05-2022,11992.11,257
+1012,Ananya Gupta,USA,Hair Repair Oil,07-02-2022,352.92,30
+1013,Ava Sharma,New Zealand,Tea Tree Moisturizer,28-05-2022,7024.11,190
+1014,Sophia Nair,New Zealand,Hair Repair Oil,31-05-2022,2884.52,118
+1015,Ananya Gupta,USA,Face Sheet Masks,26-06-2022,5022.76,154
+1016,Ananya Gupta,New Zealand,Lip Balm Pack,18-08-2022,5250.58,299
+1017,Ethan Reddy,USA,Niacinamide Toner,09-05-2022,2584.15,108
+1018,Mason Kapoor,USA,Vitamin C Cream,13-07-2022,8581.27,190
+1019,Sophia Nair,New Zealand,Lip Balm Pack,03-06-2022,559.73,12
+1020,Olivia D'Souza,India,Face Sheet Masks,07-06-2022,12905.06,498
+1021,Sophia Nair,USA,Hair Repair Oil,24-06-2022,13509.42,296
+1022,Ananya Gupta,India,Salicylic Acid Cleanser,29-05-2022,3116.98,148
+1023,Isabella Roy,USA,Anti-Aging Serum,05-06-2022,1123.46,56
+1024,Ethan Reddy,USA,Niacinamide Toner,30-03-2022,18188.8,495
+1025,Mason Kapoor,USA,Rose Water Toner,25-01-2022,8484.94,317
+1026,Sophia Nair,New Zealand,Aloe Vera Gel,22-07-2022,6693.75,476
+1027,Noah Mehta,New Zealand,Body Butter Cream,27-06-2022,9682.74,394
+1028,Isabella Roy,Australia,Anti-Aging Serum,19-01-2022,3241.7,232
+1029,Liam Patel,India,Tea Tree Moisturizer,29-03-2022,10885.26,233
+1030,Olivia D'Souza,USA,Anti-Aging Serum,24-06-2022,4934.32,194
+1031,Ethan Reddy,New Zealand,Anti-Aging Serum,24-03-2022,21726.67,436
+1032,Ethan Reddy,New Zealand,Body Butter Cream,18-04-2022,5873.54,355
+1033,Ananya Gupta,Canada,Salicylic Acid Cleanser,10-07-2022,9561.31,268
+1034,Ananya Gupta,Australia,Charcoal Face Wash,26-02-2022,3463.01,74
+1035,Isabella Roy,USA,Charcoal Face Wash,23-06-2022,136.05,11
+1036,Olivia D'Souza,Australia,Lip Balm Pack,21-05-2022,3525.11,215
+1037,Olivia D'Souza,Australia,Charcoal Face Wash,08-04-2022,4819.15,332
+1038,Liam Patel,Canada,Niacinamide Toner,21-08-2022,5661.96,136
+1039,Isabella Roy,Australia,Vitamin C Cream,28-01-2022,980.84,39
+1040,Lucas Verma,Australia,Charcoal Face Wash,05-08-2022,1430.77,38
+1041,Noah Mehta,India,Niacinamide Toner,27-07-2022,1178.22,40
+1042,Lucas Verma,New Zealand,Body Butter Cream,18-02-2022,9645.48,286
+1043,Mason Kapoor,New Zealand,Hydrating Face Serum,11-02-2022,3703.09,141
+1044,Ava Sharma,New Zealand,SPF 50 Sunscreen,28-02-2022,10465.99,393
+1045,Sophia Nair,India,Vitamin C Cream,27-03-2022,11297.48,314
+1046,Ananya Gupta,USA,Anti-Aging Serum,26-07-2022,9203.38,400
+1047,Lucas Verma,India,Face Sheet Masks,07-07-2022,10092.43,239
+1048,Ethan Reddy,New Zealand,Hair Repair Oil,11-07-2022,2394.9,84
+1049,Ethan Reddy,Australia,Vitamin C Cream,31-01-2022,4157.41,264
+1050,Mason Kapoor,Australia,Tea Tree Moisturizer,28-06-2022,3986.46,140
+1051,Sophia Nair,New Zealand,Lip Balm Pack,03-06-2022,16045.86,477
+1052,Ethan Reddy,New Zealand,Aloe Vera Gel,27-01-2022,5616.37,246
+1053,Isabella Roy,India,Under Eye Cream,11-08-2022,1741.42,42
+1054,Mason Kapoor,Australia,Niacinamide Toner,27-07-2022,4344.35,109
+1055,Liam Patel,USA,Body Butter Cream,09-03-2022,8483.48,342
+1056,Olivia D'Souza,New Zealand,Salicylic Acid Cleanser,06-05-2022,723.29,27
+1057,Lucas Verma,UK,Salicylic Acid Cleanser,20-01-2022,4476,343
+1058,Sophia Nair,New Zealand,SPF 50 Sunscreen,09-05-2022,13449.54,299
+1059,Ananya Gupta,New Zealand,Niacinamide Toner,27-07-2022,13220.1,305
+1060,Olivia D'Souza,Australia,SPF 50 Sunscreen,03-06-2022,16987.7,411
+1061,Ananya Gupta,Australia,Lip Balm Pack,10-07-2022,9085.51,237
+1062,Olivia D'Souza,USA,Anti-Aging Serum,27-06-2022,11544.08,423
+1063,Olivia D'Souza,USA,Vitamin C Cream,23-04-2022,12587.78,297
+1064,Liam Patel,Canada,Salicylic Acid Cleanser,17-04-2022,12202.64,321
+1065,Ava Sharma,UK,SPF 50 Sunscreen,23-01-2022,6319.71,366
+1066,Olivia D'Souza,New Zealand,Under Eye Cream,18-02-2022,16902.63,472
+1067,Liam Patel,India,Tea Tree Moisturizer,03-08-2022,5408.77,412
+1068,Ananya Gupta,New Zealand,Face Sheet Masks,02-05-2022,11725.2,314
+1069,Liam Patel,Canada,Tea Tree Moisturizer,22-04-2022,9669.71,376
+1070,Ananya Gupta,New Zealand,Vitamin C Cream,03-01-2022,2875.15,201
+1071,Sophia Nair,India,Anti-Aging Serum,11-03-2022,14214.55,447
+1072,Mason Kapoor,India,Body Butter Cream,05-03-2022,1195.52,29
+1073,Olivia D'Souza,Australia,Under Eye Cream,04-05-2022,16375.54,491
+1074,Ethan Reddy,New Zealand,Aloe Vera Gel,24-03-2022,8190.32,240
+1075,Ethan Reddy,New Zealand,Under Eye Cream,24-05-2022,19125.15,488
+1076,Lucas Verma,Australia,Hair Repair Oil,15-04-2022,585.65,20
+1077,Lucas Verma,UK,Aloe Vera Gel,26-03-2022,20317.26,485
+1078,Mason Kapoor,New Zealand,Rose Water Toner,07-08-2022,9887.34,320
+1079,Sophia Nair,Canada,Anti-Aging Serum,31-07-2022,8194.42,276
+1080,Isabella Roy,Australia,Under Eye Cream,26-03-2022,7471.71,491
+1081,Sophia Nair,UK,SPF 50 Sunscreen,02-06-2022,7060.26,142
+1082,Olivia D'Souza,UK,Salicylic Acid Cleanser,02-06-2022,13053.64,282
+1083,Mason Kapoor,USA,Anti-Aging Serum,29-04-2022,8399.02,181
+1084,Olivia D'Souza,UK,Hydrating Face Serum,11-03-2022,7990.6,199
+1085,Olivia D'Souza,Australia,Aloe Vera Gel,25-07-2022,11098.01,225
+1086,Lucas Verma,Australia,Body Butter Cream,03-05-2022,19951.07,426
+1087,Lucas Verma,Australia,Hydrating Face Serum,08-01-2022,119.82,10
+1088,Sophia Nair,USA,Anti-Aging Serum,02-01-2022,12551.57,377
+1089,Noah Mehta,USA,Rose Water Toner,29-07-2022,7718.1,265
+1090,Ananya Gupta,New Zealand,Body Butter Cream,29-07-2022,6264.79,163
+1091,Ethan Reddy,Australia,Niacinamide Toner,06-01-2022,1617.05,69
+1092,Isabella Roy,India,Charcoal Face Wash,26-03-2022,2630.52,64
+1093,Olivia D'Souza,USA,SPF 50 Sunscreen,28-08-2022,5024.53,251
+1094,Lucas Verma,Canada,Hair Repair Oil,27-01-2022,19586.58,451
+1095,Lucas Verma,Canada,Under Eye Cream,11-07-2022,1905.06,40
+1096,Mason Kapoor,India,Anti-Aging Serum,12-04-2022,5032.22,474
+1097,Isabella Roy,UK,Tea Tree Moisturizer,19-04-2022,7678.26,236
+1098,Olivia D'Souza,UK,Vitamin C Cream,10-02-2022,20181,409
+1099,Olivia D'Souza,Canada,Anti-Aging Serum,04-01-2022,8709.22,178
+1100,Liam Patel,UK,Face Sheet Masks,01-08-2022,18763.82,444
+1101,Lucas Verma,Australia,Hair Repair Oil,20-03-2022,11343.37,269
+1102,Liam Patel,UK,Vitamin C Cream,13-06-2022,4905.1,248
+1103,Ava Sharma,USA,Charcoal Face Wash,17-03-2022,10071.75,204
+1104,Sophia Nair,Canada,Hair Repair Oil,31-07-2022,5025.69,133
+1105,Olivia D'Souza,New Zealand,Charcoal Face Wash,30-08-2022,1274.86,81
+1106,Noah Mehta,USA,Face Sheet Masks,05-04-2022,2848.07,193
+1107,Isabella Roy,Australia,Rose Water Toner,19-06-2022,5431.35,152
+1108,Olivia D'Souza,UK,Rose Water Toner,21-06-2022,23090.87,482
+1109,Ananya Gupta,Australia,Anti-Aging Serum,11-06-2022,13289.99,273
+1110,Isabella Roy,Canada,SPF 50 Sunscreen,02-04-2022,14114.16,422
+1111,Liam Patel,Australia,Charcoal Face Wash,14-03-2022,3064.72,251
+1112,Noah Mehta,UK,Lip Balm Pack,03-07-2022,13987.08,372
+1113,Olivia D'Souza,UK,Niacinamide Toner,18-07-2022,17890.38,457
+1114,Ananya Gupta,UK,Tea Tree Moisturizer,01-08-2022,11345.7,487
+1115,Liam Patel,USA,Under Eye Cream,05-05-2022,3795.64,206
+1116,Lucas Verma,USA,SPF 50 Sunscreen,26-07-2022,1004.71,21
+1117,Liam Patel,Australia,Vitamin C Cream,30-05-2022,5575.62,371
+1118,Ananya Gupta,New Zealand,Hydrating Face Serum,07-05-2022,12563.44,420
+1119,Ananya Gupta,USA,Lip Balm Pack,21-06-2022,4983.24,143
+1120,Sophia Nair,New Zealand,Salicylic Acid Cleanser,16-08-2022,782.09,19
+1121,Liam Patel,UK,Vitamin C Cream,17-08-2022,17614.9,386
+1122,Lucas Verma,Canada,Aloe Vera Gel,30-04-2022,7897.13,358
+1123,Ethan Reddy,UK,Aloe Vera Gel,25-01-2022,16376.88,449
+1124,Ananya Gupta,India,Body Butter Cream,22-08-2022,5599.68,264
+1125,Ananya Gupta,New Zealand,Salicylic Acid Cleanser,26-08-2022,2966.47,144
+1126,Sophia Nair,UK,Body Butter Cream,19-05-2022,6828.68,484
+1127,Ananya Gupta,UK,Lip Balm Pack,27-08-2022,2555.95,192
+1128,Ananya Gupta,New Zealand,Rose Water Toner,29-04-2022,832.92,19
+1129,Sophia Nair,New Zealand,Tea Tree Moisturizer,15-07-2022,997.96,36
+1130,Isabella Roy,New Zealand,Lip Balm Pack,04-02-2022,7754.36,466
+1131,Noah Mehta,India,Aloe Vera Gel,16-05-2022,5507.19,176
+1132,Olivia D'Souza,Australia,Body Butter Cream,27-01-2022,1119.66,87
+1133,Sophia Nair,USA,Face Sheet Masks,02-06-2022,6853.59,384
+1134,Ava Sharma,USA,Hair Repair Oil,06-04-2022,12147.98,254
+1135,Lucas Verma,New Zealand,Aloe Vera Gel,26-07-2022,923.46,79
+1136,Ava Sharma,Canada,Salicylic Acid Cleanser,10-01-2022,442.07,24
+1137,Liam Patel,Canada,Aloe Vera Gel,04-01-2022,3900.37,83
+1138,Ava Sharma,New Zealand,Body Butter Cream,02-06-2022,801.63,25
+1139,Isabella Roy,India,Aloe Vera Gel,03-03-2022,10101.78,251
+1140,Sophia Nair,Canada,Vitamin C Cream,29-05-2022,6600.15,417
+1141,Lucas Verma,USA,Niacinamide Toner,28-05-2022,5302.98,258
+1142,Noah Mehta,UK,Under Eye Cream,02-08-2022,6310.09,257
+1143,Noah Mehta,Canada,Hydrating Face Serum,17-07-2022,2369.18,211
+1144,Sophia Nair,UK,Aloe Vera Gel,14-05-2022,16418.97,358
+1145,Olivia D'Souza,New Zealand,Vitamin C Cream,15-01-2022,10774.83,226
+1146,Sophia Nair,Australia,Niacinamide Toner,13-04-2022,5958.48,162
+1147,Olivia D'Souza,USA,Tea Tree Moisturizer,22-07-2022,1194.96,74
+1148,Isabella Roy,Australia,Charcoal Face Wash,11-04-2022,314.68,18
+1149,Mason Kapoor,Australia,Anti-Aging Serum,18-06-2022,1442.65,91
+1150,Liam Patel,USA,Under Eye Cream,12-06-2022,2810.34,78
+1151,Mason Kapoor,UK,Under Eye Cream,13-01-2022,1394.62,57
+1152,Liam Patel,Australia,Niacinamide Toner,02-04-2022,8143.6,213
+1153,Mason Kapoor,UK,Body Butter Cream,10-07-2022,12885.94,340
+1154,Liam Patel,Canada,Lip Balm Pack,03-08-2022,16223.13,362
+1155,Noah Mehta,UK,Face Sheet Masks,18-03-2022,8330.47,217
+1156,Mason Kapoor,New Zealand,Rose Water Toner,19-06-2022,5384.2,290
+1157,Ava Sharma,India,Hydrating Face Serum,07-03-2022,19594.27,450
+1158,Ava Sharma,New Zealand,Vitamin C Cream,27-05-2022,12213.24,266
+1159,Lucas Verma,UK,Hydrating Face Serum,11-05-2022,4242.56,357
+1160,Mason Kapoor,Australia,Face Sheet Masks,20-03-2022,13379.16,498
+1161,Lucas Verma,Australia,Tea Tree Moisturizer,25-03-2022,9353.99,246
+1162,Ananya Gupta,New Zealand,Vitamin C Cream,26-08-2022,5032.73,147
+1163,Mason Kapoor,UK,Lip Balm Pack,09-01-2022,3041.08,103
+1164,Ananya Gupta,Canada,Hair Repair Oil,25-03-2022,3258.73,150
+1165,Liam Patel,USA,Anti-Aging Serum,17-05-2022,10452.26,242
+1166,Ethan Reddy,USA,Hydrating Face Serum,29-05-2022,8642.86,298
+1167,Ananya Gupta,India,Rose Water Toner,31-03-2022,2523.86,102
+1168,Ethan Reddy,Canada,Charcoal Face Wash,07-05-2022,11599.9,324
+1169,Liam Patel,New Zealand,SPF 50 Sunscreen,27-05-2022,15606.61,331
+1170,Mason Kapoor,New Zealand,Lip Balm Pack,13-07-2022,9583.51,312
+1171,Noah Mehta,New Zealand,Tea Tree Moisturizer,13-08-2022,10192.85,373
+1172,Olivia D'Souza,USA,Hydrating Face Serum,02-05-2022,21701.44,483
+1173,Sophia Nair,India,Hair Repair Oil,28-08-2022,6496.58,366
+1174,Ananya Gupta,New Zealand,Body Butter Cream,02-02-2022,16383.31,438
+1175,Mason Kapoor,New Zealand,Body Butter Cream,03-06-2022,15834.45,361
+1176,Noah Mehta,UK,Lip Balm Pack,17-05-2022,7501.02,489
+1177,Noah Mehta,UK,Hydrating Face Serum,24-06-2022,922.43,29
+1178,Ananya Gupta,India,Salicylic Acid Cleanser,28-04-2022,6141.45,213
+1179,Noah Mehta,New Zealand,Rose Water Toner,23-03-2022,1745.79,156
+1180,Liam Patel,New Zealand,Charcoal Face Wash,25-03-2022,7268.2,198
+1181,Sophia Nair,UK,SPF 50 Sunscreen,25-04-2022,424.38,30
+1182,Noah Mehta,New Zealand,Body Butter Cream,08-04-2022,10711.79,331
+1183,Noah Mehta,USA,Vitamin C Cream,23-03-2022,8154.9,248
+1184,Ava Sharma,New Zealand,Tea Tree Moisturizer,25-07-2022,5132.41,454
+1185,Isabella Roy,India,Vitamin C Cream,21-03-2022,6538.2,264
+1186,Ethan Reddy,USA,Rose Water Toner,11-07-2022,13625.75,406
+1187,Isabella Roy,Australia,SPF 50 Sunscreen,18-06-2022,3344.35,244
+1188,Sophia Nair,India,Aloe Vera Gel,02-03-2022,11456.29,325
+1189,Ava Sharma,India,Hair Repair Oil,19-04-2022,8946.01,434
+1190,Ananya Gupta,Australia,Hair Repair Oil,16-01-2022,15120.74,360
+1191,Ethan Reddy,Canada,Under Eye Cream,01-04-2022,9372.51,274
+1192,Ananya Gupta,UK,Hydrating Face Serum,22-05-2022,4531.42,107
+1193,Noah Mehta,USA,Aloe Vera Gel,13-01-2022,16283.5,456
+1194,Ava Sharma,Canada,Tea Tree Moisturizer,24-01-2022,10108.84,402
+1195,Noah Mehta,UK,Body Butter Cream,12-08-2022,3801.03,202
+1196,Liam Patel,USA,Anti-Aging Serum,08-07-2022,1308.08,51
+1197,Noah Mehta,Canada,Face Sheet Masks,09-07-2022,13195,285
+1198,Isabella Roy,Australia,Niacinamide Toner,25-04-2022,5223.33,152
+1199,Olivia D'Souza,Canada,Salicylic Acid Cleanser,30-08-2022,6102.47,146
+1200,Noah Mehta,Australia,Hydrating Face Serum,29-06-2022,8416.43,237
+1201,Isabella Roy,Canada,Under Eye Cream,22-05-2022,8215.87,334
+1202,Sophia Nair,Canada,SPF 50 Sunscreen,29-03-2022,6936.38,322
+1203,Olivia D'Souza,New Zealand,Under Eye Cream,04-03-2022,2422.62,180
+1204,Lucas Verma,USA,Anti-Aging Serum,13-01-2022,17090.34,366
+1205,Ava Sharma,Canada,Hydrating Face Serum,23-02-2022,10497.39,324
+1206,Sophia Nair,UK,Under Eye Cream,29-08-2022,569.78,14
+1207,Olivia D'Souza,UK,Hydrating Face Serum,15-03-2022,4103.17,124
+1208,Isabella Roy,Australia,SPF 50 Sunscreen,26-08-2022,891.11,73
+1209,Isabella Roy,UK,Hydrating Face Serum,18-01-2022,14127.27,465
+1210,Olivia D'Souza,USA,Aloe Vera Gel,25-03-2022,5150.27,218
+1211,Noah Mehta,USA,Face Sheet Masks,08-03-2022,146.7,13
+1212,Sophia Nair,New Zealand,Hair Repair Oil,17-02-2022,3812.92,118
+1213,Mason Kapoor,USA,Niacinamide Toner,23-07-2022,9450.04,218
+1214,Noah Mehta,UK,Face Sheet Masks,14-02-2022,6457.54,293
+1215,Olivia D'Souza,UK,Under Eye Cream,19-02-2022,7925.54,309
+1216,Lucas Verma,USA,Tea Tree Moisturizer,13-04-2022,16861.45,385
+1217,Lucas Verma,New Zealand,Salicylic Acid Cleanser,17-08-2022,1650.87,72
+1218,Ananya Gupta,Australia,Hair Repair Oil,15-07-2022,19861.82,424
+1219,Isabella Roy,Canada,Body Butter Cream,08-06-2022,10647.12,234
+1220,Olivia D'Souza,Australia,SPF 50 Sunscreen,03-06-2022,1564.91,49
+1221,Liam Patel,India,Tea Tree Moisturizer,10-01-2022,2126.3,89
+1222,Liam Patel,India,Niacinamide Toner,09-04-2022,2893.74,204
+1223,Isabella Roy,Australia,Tea Tree Moisturizer,17-04-2022,13434.96,283
+1224,Ethan Reddy,India,Lip Balm Pack,05-07-2022,8273.51,169
+1225,Noah Mehta,UK,Charcoal Face Wash,07-04-2022,4063.64,149
+1226,Olivia D'Souza,UK,Aloe Vera Gel,06-08-2022,6650.47,471
+1227,Liam Patel,USA,Hydrating Face Serum,08-02-2022,4463.32,295
+1228,Ava Sharma,USA,SPF 50 Sunscreen,10-03-2022,16996.07,471
+1229,Olivia D'Souza,UK,Tea Tree Moisturizer,30-08-2022,4768.41,183
+1230,Isabella Roy,Australia,Face Sheet Masks,30-03-2022,18046.13,401
+1231,Mason Kapoor,USA,Aloe Vera Gel,18-05-2022,868.92,46
+1232,Liam Patel,Australia,Charcoal Face Wash,26-01-2022,4759.75,96
+1233,Isabella Roy,USA,Rose Water Toner,22-03-2022,19576.41,402
+1234,Sophia Nair,USA,Lip Balm Pack,20-06-2022,4824.94,235
+1235,Isabella Roy,Canada,Hair Repair Oil,19-05-2022,5555.52,150
+1236,Lucas Verma,USA,Aloe Vera Gel,28-01-2022,6004.2,126
+1237,Sophia Nair,USA,SPF 50 Sunscreen,06-04-2022,12369.81,456
+1238,Noah Mehta,UK,Lip Balm Pack,23-05-2022,861.89,29
+1239,Ava Sharma,Australia,Vitamin C Cream,11-03-2022,6048.32,360
+1240,Sophia Nair,India,Body Butter Cream,02-06-2022,15051.5,418
+1241,Mason Kapoor,UK,Under Eye Cream,18-05-2022,756.72,24
+1242,Isabella Roy,Canada,Salicylic Acid Cleanser,22-06-2022,534.64,22
+1243,Ava Sharma,Canada,Aloe Vera Gel,11-04-2022,12424.63,360
+1244,Liam Patel,India,Face Sheet Masks,18-05-2022,15136.25,354
+1245,Liam Patel,UK,Face Sheet Masks,28-03-2022,580.35,31
+1246,Ananya Gupta,India,Charcoal Face Wash,30-08-2022,5804.87,119
+1247,Noah Mehta,New Zealand,Face Sheet Masks,30-01-2022,23152.04,487
+1248,Mason Kapoor,Canada,SPF 50 Sunscreen,19-08-2022,6174.38,232
+1249,Lucas Verma,India,Tea Tree Moisturizer,07-07-2022,16619.54,425
+1250,Lucas Verma,New Zealand,Face Sheet Masks,10-06-2022,3214.37,161
+1251,Mason Kapoor,Australia,Vitamin C Cream,13-08-2022,16037.03,475
+1252,Lucas Verma,USA,Charcoal Face Wash,30-03-2022,6455.88,299
+1253,Isabella Roy,New Zealand,SPF 50 Sunscreen,15-03-2022,20659.54,478
+1254,Olivia D'Souza,Canada,Under Eye Cream,19-04-2022,19030.11,434
+1255,Noah Mehta,India,Hair Repair Oil,07-05-2022,5042.61,140
+1256,Sophia Nair,UK,SPF 50 Sunscreen,11-02-2022,15274.46,350
+1257,Mason Kapoor,USA,Charcoal Face Wash,16-03-2022,13934.58,498
+1258,Lucas Verma,Australia,SPF 50 Sunscreen,13-08-2022,858.68,73
+1259,Ananya Gupta,India,Hair Repair Oil,01-05-2022,10382.3,390
+1260,Olivia D'Souza,USA,Hair Repair Oil,27-01-2022,7825.06,499
+1261,Mason Kapoor,Canada,Anti-Aging Serum,19-05-2022,329,16
+1262,Isabella Roy,Australia,Rose Water Toner,04-07-2022,7014.04,191
+1263,Olivia D'Souza,India,Anti-Aging Serum,02-01-2022,9390.28,433
+1264,Noah Mehta,New Zealand,SPF 50 Sunscreen,26-08-2022,3368.14,279
+1265,Olivia D'Souza,Australia,Aloe Vera Gel,31-07-2022,2200.4,152
+1266,Sophia Nair,New Zealand,Face Sheet Masks,11-06-2022,381.6,23
+1267,Lucas Verma,USA,Body Butter Cream,26-02-2022,16452.13,440
+1268,Noah Mehta,India,Lip Balm Pack,02-07-2022,7364.22,306
+1269,Olivia D'Souza,USA,Face Sheet Masks,01-06-2022,11031.64,300
+1270,Ethan Reddy,India,Vitamin C Cream,24-02-2022,715.01,37
+1271,Ananya Gupta,Canada,Salicylic Acid Cleanser,01-03-2022,5699.19,197
+1272,Ava Sharma,India,SPF 50 Sunscreen,16-02-2022,7524.98,189
+1273,Sophia Nair,Australia,Hair Repair Oil,01-01-2022,10002.88,253
+1274,Liam Patel,New Zealand,Hair Repair Oil,29-05-2022,3812.45,85
+1275,Lucas Verma,Australia,Charcoal Face Wash,03-08-2022,6717.5,354
+1276,Ananya Gupta,Australia,Tea Tree Moisturizer,09-05-2022,8326.18,167
+1277,Isabella Roy,New Zealand,Salicylic Acid Cleanser,31-01-2022,5177.5,120
+1278,Ava Sharma,India,Body Butter Cream,02-07-2022,12188.95,362
+1279,Olivia D'Souza,India,Hair Repair Oil,23-07-2022,1225.41,80
+1280,Liam Patel,UK,Tea Tree Moisturizer,28-04-2022,16191.56,422
+1281,Olivia D'Souza,New Zealand,Lip Balm Pack,01-05-2022,10095.38,364
+1282,Ava Sharma,USA,Lip Balm Pack,24-03-2022,8901.98,335
+1283,Ethan Reddy,India,Under Eye Cream,20-08-2022,1761.2,138
+1284,Ava Sharma,UK,Rose Water Toner,02-05-2022,15189.5,308
+1285,Ananya Gupta,USA,Anti-Aging Serum,27-01-2022,7077.02,189
+1286,Sophia Nair,Australia,Tea Tree Moisturizer,21-06-2022,16495.37,424
+1287,Noah Mehta,UK,Vitamin C Cream,27-02-2022,6530.73,215
+1288,Noah Mehta,Australia,Under Eye Cream,05-06-2022,12915.63,388
+1289,Isabella Roy,Canada,Hydrating Face Serum,06-08-2022,16425.05,375
+1290,Olivia D'Souza,Australia,Hair Repair Oil,12-06-2022,6775,352
+1291,Lucas Verma,Canada,Lip Balm Pack,24-03-2022,4553.78,237
+1292,Liam Patel,USA,Anti-Aging Serum,17-04-2022,20895.19,482
+1293,Sophia Nair,UK,Hydrating Face Serum,16-07-2022,14822.36,318
+1294,Ethan Reddy,New Zealand,Rose Water Toner,27-03-2022,3428.81,225
+1295,Mason Kapoor,USA,Hydrating Face Serum,10-06-2022,2925.47,224
+1296,Lucas Verma,Canada,Tea Tree Moisturizer,10-01-2022,19444.09,452
+1297,Ethan Reddy,UK,Hair Repair Oil,09-03-2022,8591.2,176
+1298,Lucas Verma,UK,Body Butter Cream,30-04-2022,2289.16,167
+1299,Ananya Gupta,UK,Hydrating Face Serum,01-06-2022,6384.11,265
+1300,Lucas Verma,USA,Hydrating Face Serum,10-01-2022,2747.98,115
+1301,Liam Patel,Australia,Aloe Vera Gel,27-04-2022,6324.87,296
+1302,Liam Patel,USA,Anti-Aging Serum,19-01-2022,4592.38,155
+1303,Olivia D'Souza,UK,Tea Tree Moisturizer,29-05-2022,5016.53,164
+1304,Ethan Reddy,USA,Anti-Aging Serum,19-03-2022,636.78,43
+1305,Liam Patel,India,Vitamin C Cream,28-03-2022,2948.69,189
+1306,Ethan Reddy,Canada,Under Eye Cream,19-04-2022,19971.42,463
+1307,Ava Sharma,Australia,Salicylic Acid Cleanser,18-06-2022,8218.19,439
+1308,Ethan Reddy,Canada,Niacinamide Toner,21-07-2022,4964.03,225
+1309,Ethan Reddy,Australia,Tea Tree Moisturizer,21-02-2022,7881.92,253
+1310,Isabella Roy,India,Salicylic Acid Cleanser,28-08-2022,15267.53,321
+1311,Isabella Roy,USA,Hair Repair Oil,02-04-2022,16343.94,485
+1312,Sophia Nair,USA,Niacinamide Toner,06-01-2022,10904.55,236
+1313,Ethan Reddy,USA,Under Eye Cream,16-07-2022,3205,81
+1314,Olivia D'Souza,New Zealand,Under Eye Cream,18-01-2022,5771.22,140
+1315,Mason Kapoor,Australia,Charcoal Face Wash,24-03-2022,3977.2,80
+1316,Noah Mehta,New Zealand,Salicylic Acid Cleanser,21-02-2022,8919.5,363
+1317,Mason Kapoor,UK,Vitamin C Cream,06-04-2022,23284.44,499
+1318,Isabella Roy,Australia,Face Sheet Masks,27-04-2022,4260.44,103
+1319,Ava Sharma,India,Rose Water Toner,14-03-2022,7570.61,159
+1320,Ethan Reddy,Australia,Body Butter Cream,31-03-2022,18742.38,469
+1321,Mason Kapoor,UK,Anti-Aging Serum,07-07-2022,8787.8,249
+1322,Lucas Verma,New Zealand,Under Eye Cream,01-07-2022,16253.66,423
+1323,Lucas Verma,India,Aloe Vera Gel,06-05-2022,10789.63,436
+1324,Olivia D'Souza,Canada,Under Eye Cream,20-03-2022,841.52,27
+1325,Lucas Verma,UK,Under Eye Cream,30-01-2022,5926.16,152
+1326,Ava Sharma,Australia,Anti-Aging Serum,02-06-2022,7066.65,221
+1327,Olivia D'Souza,New Zealand,Body Butter Cream,01-04-2022,11533.13,427
+1328,Ava Sharma,Australia,Tea Tree Moisturizer,10-06-2022,6390.52,146
+1329,Sophia Nair,USA,Face Sheet Masks,09-06-2022,444.44,15
+1330,Ava Sharma,New Zealand,SPF 50 Sunscreen,15-06-2022,7220.46,171
+1331,Noah Mehta,Canada,SPF 50 Sunscreen,24-02-2022,3490.94,120
+1332,Mason Kapoor,Canada,Tea Tree Moisturizer,12-08-2022,7408.06,168
+1333,Noah Mehta,Canada,Rose Water Toner,31-07-2022,4111.71,175
+1334,Ananya Gupta,India,Tea Tree Moisturizer,28-03-2022,3823.54,269
+1335,Mason Kapoor,Australia,Lip Balm Pack,06-07-2022,4542.86,186
+1336,Noah Mehta,UK,Hydrating Face Serum,29-04-2022,527.39,11
+1337,Liam Patel,USA,Anti-Aging Serum,22-02-2022,4013.93,124
+1338,Ava Sharma,Australia,Niacinamide Toner,12-01-2022,593.94,38
+1339,Ethan Reddy,UK,SPF 50 Sunscreen,08-01-2022,4318.42,175
+1340,Sophia Nair,USA,Salicylic Acid Cleanser,15-05-2022,5293.89,144
+1341,Noah Mehta,USA,Under Eye Cream,24-01-2022,3165.41,181
+1342,Ethan Reddy,USA,Aloe Vera Gel,24-04-2022,5212.22,224
+1343,Ananya Gupta,UK,Tea Tree Moisturizer,12-06-2022,4320.88,211
+1344,Ananya Gupta,UK,Anti-Aging Serum,27-08-2022,434.03,16
+1345,Ava Sharma,USA,Rose Water Toner,22-02-2022,15708.48,486
+1346,Noah Mehta,New Zealand,Hair Repair Oil,26-05-2022,411.5,16
+1347,Liam Patel,Australia,Face Sheet Masks,30-07-2022,2124.81,101
+1348,Noah Mehta,Australia,Vitamin C Cream,12-01-2022,984.79,32
+1349,Ananya Gupta,New Zealand,Hydrating Face Serum,26-04-2022,13049.1,327
+1350,Olivia D'Souza,India,Body Butter Cream,29-06-2022,956.42,21
+1351,Ananya Gupta,New Zealand,SPF 50 Sunscreen,15-04-2022,5712.21,337
+1352,Isabella Roy,India,Niacinamide Toner,28-04-2022,6985.76,410
+1353,Ethan Reddy,USA,Niacinamide Toner,10-08-2022,10122.81,236
+1354,Olivia D'Souza,USA,Lip Balm Pack,22-01-2022,4746.86,321
+1355,Ava Sharma,UK,Hydrating Face Serum,19-03-2022,365.6,18
+1356,Sophia Nair,New Zealand,Face Sheet Masks,15-08-2022,9791.02,385
+1357,Lucas Verma,USA,Vitamin C Cream,23-01-2022,6966.13,364
+1358,Noah Mehta,USA,Tea Tree Moisturizer,20-01-2022,14282.35,458
+1359,Isabella Roy,Canada,Vitamin C Cream,24-08-2022,2735.77,73
+1360,Ethan Reddy,Canada,Hydrating Face Serum,17-02-2022,5503.98,338
+1361,Ananya Gupta,UK,Hydrating Face Serum,04-05-2022,10872.5,351
+1362,Ananya Gupta,Australia,Aloe Vera Gel,06-01-2022,4158.5,286
+1363,Ethan Reddy,Australia,Hair Repair Oil,15-04-2022,23977.48,481
+1364,Liam Patel,New Zealand,Charcoal Face Wash,25-08-2022,5031.06,161
+1365,Noah Mehta,Canada,Vitamin C Cream,31-05-2022,7460.34,356
+1366,Ethan Reddy,USA,Niacinamide Toner,08-07-2022,6613.2,186
+1367,Ethan Reddy,New Zealand,Lip Balm Pack,30-04-2022,708.87,36
+1368,Isabella Roy,New Zealand,Hydrating Face Serum,16-06-2022,10445.39,306
+1369,Sophia Nair,Australia,Vitamin C Cream,11-04-2022,5797.63,254
+1370,Sophia Nair,India,Anti-Aging Serum,19-03-2022,10473.97,441
+1371,Isabella Roy,Canada,Hair Repair Oil,15-07-2022,1372.66,33
+1372,Isabella Roy,New Zealand,SPF 50 Sunscreen,03-03-2022,11414.54,333
+1373,Noah Mehta,India,Vitamin C Cream,16-05-2022,631.36,41
+1374,Lucas Verma,Australia,Anti-Aging Serum,30-03-2022,6093.04,357
+1375,Olivia D'Souza,Australia,Hair Repair Oil,13-04-2022,3335.93,270
+1376,Isabella Roy,USA,Lip Balm Pack,11-06-2022,15130.24,384
+1377,Liam Patel,Australia,Charcoal Face Wash,05-03-2022,3321.69,145
+1378,Sophia Nair,New Zealand,Aloe Vera Gel,16-08-2022,2336.36,119
+1379,Noah Mehta,USA,Hydrating Face Serum,15-04-2022,19443.77,420
+1380,Olivia D'Souza,Canada,Tea Tree Moisturizer,31-01-2022,4534.5,161
+1381,Ananya Gupta,UK,Hydrating Face Serum,24-08-2022,1027.1,69
+1382,Ethan Reddy,India,Hair Repair Oil,15-03-2022,2883,66
+1383,Mason Kapoor,New Zealand,Charcoal Face Wash,08-01-2022,2593.64,66
+1384,Mason Kapoor,UK,Hydrating Face Serum,03-04-2022,5802.73,433
+1385,Ethan Reddy,Australia,Hydrating Face Serum,18-05-2022,11992.11,257
+1386,Ananya Gupta,USA,Hair Repair Oil,07-02-2022,352.92,30
+1387,Ava Sharma,New Zealand,Tea Tree Moisturizer,28-05-2022,7024.11,190
+1388,Sophia Nair,New Zealand,Hair Repair Oil,31-05-2022,2884.52,118
+1389,Ananya Gupta,USA,Face Sheet Masks,26-06-2022,5022.76,154
+1390,Ananya Gupta,New Zealand,Lip Balm Pack,18-08-2022,5250.58,299
+1391,Ethan Reddy,USA,Niacinamide Toner,09-05-2022,2584.15,108
+1392,Mason Kapoor,USA,Vitamin C Cream,13-07-2022,8581.27,190
+1393,Sophia Nair,New Zealand,Lip Balm Pack,03-06-2022,559.73,12
+1394,Olivia D'Souza,India,Face Sheet Masks,07-06-2022,12905.06,498
+1395,Sophia Nair,USA,Hair Repair Oil,24-06-2022,13509.42,296
+1396,Ananya Gupta,India,Salicylic Acid Cleanser,29-05-2022,3116.98,148
+1397,Isabella Roy,USA,Anti-Aging Serum,05-06-2022,1123.46,56
+1398,Ethan Reddy,USA,Niacinamide Toner,30-03-2022,18188.8,495
+1399,Mason Kapoor,USA,Rose Water Toner,25-01-2022,8484.94,317
+1400,Sophia Nair,New Zealand,Aloe Vera Gel,22-07-2022,6693.75,476
+1401,Noah Mehta,New Zealand,Body Butter Cream,27-06-2022,9682.74,394
+1402,Isabella Roy,Australia,Anti-Aging Serum,19-01-2022,3241.7,232
+1403,Liam Patel,India,Tea Tree Moisturizer,29-03-2022,10885.26,233
+1404,Olivia D'Souza,USA,Anti-Aging Serum,24-06-2022,4934.32,194
+1405,Ethan Reddy,New Zealand,Anti-Aging Serum,24-03-2022,21726.67,436
+1406,Ethan Reddy,New Zealand,Body Butter Cream,18-04-2022,5873.54,355
+1407,Ananya Gupta,Canada,Salicylic Acid Cleanser,10-07-2022,9561.31,268
+1408,Ananya Gupta,Australia,Charcoal Face Wash,26-02-2022,3463.01,74
+1409,Isabella Roy,USA,Charcoal Face Wash,23-06-2022,136.05,11
+1410,Olivia D'Souza,Australia,Lip Balm Pack,21-05-2022,3525.11,215
+1411,Olivia D'Souza,Australia,Charcoal Face Wash,08-04-2022,4819.15,332
+1412,Liam Patel,Canada,Niacinamide Toner,21-08-2022,5661.96,136
+1413,Isabella Roy,Australia,Vitamin C Cream,28-01-2022,980.84,39
+1414,Lucas Verma,Australia,Charcoal Face Wash,05-08-2022,1430.77,38
+1415,Noah Mehta,India,Niacinamide Toner,27-07-2022,1178.22,40
+1416,Lucas Verma,New Zealand,Body Butter Cream,18-02-2022,9645.48,286
+1417,Mason Kapoor,New Zealand,Hydrating Face Serum,11-02-2022,3703.09,141
+1418,Ava Sharma,New Zealand,SPF 50 Sunscreen,28-02-2022,10465.99,393
+1419,Sophia Nair,India,Vitamin C Cream,27-03-2022,11297.48,314
+1420,Ananya Gupta,USA,Anti-Aging Serum,26-07-2022,9203.38,400
+1421,Lucas Verma,India,Face Sheet Masks,07-07-2022,10092.43,239
+1422,Ethan Reddy,New Zealand,Hair Repair Oil,11-07-2022,2394.9,84
+1423,Ethan Reddy,Australia,Vitamin C Cream,31-01-2022,4157.41,264
+1424,Mason Kapoor,Australia,Tea Tree Moisturizer,28-06-2022,3986.46,140
+1425,Sophia Nair,New Zealand,Lip Balm Pack,03-06-2022,16045.86,477
+1426,Ethan Reddy,New Zealand,Aloe Vera Gel,27-01-2022,5616.37,246
+1427,Isabella Roy,India,Under Eye Cream,11-08-2022,1741.42,42
+1428,Mason Kapoor,Australia,Niacinamide Toner,27-07-2022,4344.35,109
+1429,Liam Patel,USA,Body Butter Cream,09-03-2022,8483.48,342
+1430,Olivia D'Souza,New Zealand,Salicylic Acid Cleanser,06-05-2022,723.29,27
+1431,Lucas Verma,UK,Salicylic Acid Cleanser,20-01-2022,4476,343
+1432,Sophia Nair,New Zealand,SPF 50 Sunscreen,09-05-2022,13449.54,299
+1433,Ananya Gupta,New Zealand,Niacinamide Toner,27-07-2022,13220.1,305
+1434,Olivia D'Souza,Australia,SPF 50 Sunscreen,03-06-2022,16987.7,411
+1435,Ananya Gupta,Australia,Lip Balm Pack,10-07-2022,9085.51,237
+1436,Olivia D'Souza,USA,Anti-Aging Serum,27-06-2022,11544.08,423
+1437,Olivia D'Souza,USA,Vitamin C Cream,23-04-2022,12587.78,297
+1438,Liam Patel,Canada,Salicylic Acid Cleanser,17-04-2022,12202.64,321
+1439,Ava Sharma,UK,SPF 50 Sunscreen,23-01-2022,6319.71,366
+1440,Olivia D'Souza,New Zealand,Under Eye Cream,18-02-2022,16902.63,472
+1441,Liam Patel,India,Tea Tree Moisturizer,03-08-2022,5408.77,412
+1442,Ananya Gupta,New Zealand,Face Sheet Masks,02-05-2022,11725.2,314
+1443,Liam Patel,Canada,Tea Tree Moisturizer,22-04-2022,9669.71,376
+1444,Ananya Gupta,New Zealand,Vitamin C Cream,03-01-2022,2875.15,201
+1445,Sophia Nair,India,Anti-Aging Serum,11-03-2022,14214.55,447
+1446,Mason Kapoor,India,Body Butter Cream,05-03-2022,1195.52,29
+1447,Olivia D'Souza,Australia,Under Eye Cream,04-05-2022,16375.54,491
+1448,Ethan Reddy,New Zealand,Aloe Vera Gel,24-03-2022,8190.32,240
+1449,Ethan Reddy,New Zealand,Under Eye Cream,24-05-2022,19125.15,488
+1450,Lucas Verma,Australia,Hair Repair Oil,15-04-2022,585.65,20
+1451,Lucas Verma,UK,Aloe Vera Gel,26-03-2022,20317.26,485
+1452,Mason Kapoor,New Zealand,Rose Water Toner,07-08-2022,9887.34,320
+1453,Sophia Nair,Canada,Anti-Aging Serum,31-07-2022,8194.42,276
+1454,Isabella Roy,Australia,Under Eye Cream,26-03-2022,7471.71,491
+1455,Sophia Nair,UK,SPF 50 Sunscreen,02-06-2022,7060.26,142
+1456,Olivia D'Souza,UK,Salicylic Acid Cleanser,02-06-2022,13053.64,282
+1457,Mason Kapoor,USA,Anti-Aging Serum,29-04-2022,8399.02,181
+1458,Olivia D'Souza,UK,Hydrating Face Serum,11-03-2022,7990.6,199
+1459,Olivia D'Souza,Australia,Aloe Vera Gel,25-07-2022,11098.01,225
+1460,Lucas Verma,Australia,Body Butter Cream,03-05-2022,19951.07,426
+1461,Lucas Verma,Australia,Hydrating Face Serum,08-01-2022,119.82,10
+1462,Sophia Nair,USA,Anti-Aging Serum,02-01-2022,12551.57,377
+1463,Noah Mehta,USA,Rose Water Toner,29-07-2022,7718.1,265
+1464,Ananya Gupta,New Zealand,Body Butter Cream,29-07-2022,6264.79,163
+1465,Ethan Reddy,Australia,Niacinamide Toner,06-01-2022,1617.05,69
+1466,Isabella Roy,India,Charcoal Face Wash,26-03-2022,2630.52,64
+1467,Olivia D'Souza,USA,SPF 50 Sunscreen,28-08-2022,5024.53,251
+1468,Lucas Verma,Canada,Hair Repair Oil,27-01-2022,19586.58,451
+1469,Lucas Verma,Canada,Under Eye Cream,11-07-2022,1905.06,40
+1470,Mason Kapoor,India,Anti-Aging Serum,12-04-2022,5032.22,474
+1471,Isabella Roy,UK,Tea Tree Moisturizer,19-04-2022,7678.26,236
+1472,Olivia D'Souza,UK,Vitamin C Cream,10-02-2022,20181,409
+1473,Olivia D'Souza,Canada,Anti-Aging Serum,04-01-2022,8709.22,178
+1474,Liam Patel,UK,Face Sheet Masks,01-08-2022,18763.82,444
+1475,Lucas Verma,Australia,Hair Repair Oil,20-03-2022,11343.37,269
+1476,Liam Patel,UK,Vitamin C Cream,13-06-2022,4905.1,248
+1477,Ava Sharma,USA,Charcoal Face Wash,17-03-2022,10071.75,204
+1478,Sophia Nair,Canada,Hair Repair Oil,31-07-2022,5025.69,133
+1479,Olivia D'Souza,New Zealand,Charcoal Face Wash,30-08-2022,1274.86,81
+1480,Noah Mehta,USA,Face Sheet Masks,05-04-2022,2848.07,193
+1481,Isabella Roy,Australia,Rose Water Toner,19-06-2022,5431.35,152
+1482,Olivia D'Souza,UK,Rose Water Toner,21-06-2022,23090.87,482
+1483,Ananya Gupta,Australia,Anti-Aging Serum,11-06-2022,13289.99,273
+1484,Isabella Roy,Canada,SPF 50 Sunscreen,02-04-2022,14114.16,422
+1485,Liam Patel,Australia,Charcoal Face Wash,14-03-2022,3064.72,251
+1486,Noah Mehta,UK,Lip Balm Pack,03-07-2022,13987.08,372
+1487,Olivia D'Souza,UK,Niacinamide Toner,18-07-2022,17890.38,457
+1488,Ananya Gupta,UK,Tea Tree Moisturizer,01-08-2022,11345.7,487
+1489,Liam Patel,USA,Under Eye Cream,05-05-2022,3795.64,206
+1490,Lucas Verma,USA,SPF 50 Sunscreen,26-07-2022,1004.71,21
+1491,Liam Patel,Australia,Vitamin C Cream,30-05-2022,5575.62,371
+1492,Ananya Gupta,New Zealand,Hydrating Face Serum,07-05-2022,12563.44,420
+1493,Ananya Gupta,USA,Lip Balm Pack,21-06-2022,4983.24,143
+1494,Sophia Nair,New Zealand,Salicylic Acid Cleanser,16-08-2022,782.09,19
+1495,Liam Patel,UK,Vitamin C Cream,17-08-2022,17614.9,386
+1496,Lucas Verma,Canada,Aloe Vera Gel,30-04-2022,7897.13,358
+1497,Ethan Reddy,UK,Aloe Vera Gel,25-01-2022,16376.88,449
+1498,Ananya Gupta,India,Body Butter Cream,22-08-2022,5599.68,264
+1499,Ananya Gupta,New Zealand,Salicylic Acid Cleanser,26-08-2022,2966.47,144
+1500,Sophia Nair,UK,Body Butter Cream,19-05-2022,6828.68,484
+1501,Ananya Gupta,UK,Lip Balm Pack,27-08-2022,2555.95,192
+1502,Ananya Gupta,New Zealand,Rose Water Toner,29-04-2022,832.92,19
+1503,Sophia Nair,New Zealand,Tea Tree Moisturizer,15-07-2022,997.96,36
+1504,Isabella Roy,New Zealand,Lip Balm Pack,04-02-2022,7754.36,466
+1505,Noah Mehta,India,Aloe Vera Gel,16-05-2022,5507.19,176
+1506,Olivia D'Souza,Australia,Body Butter Cream,27-01-2022,1119.66,87
+1507,Sophia Nair,USA,Face Sheet Masks,02-06-2022,6853.59,384
+1508,Ava Sharma,USA,Hair Repair Oil,06-04-2022,12147.98,254
+1509,Lucas Verma,New Zealand,Aloe Vera Gel,26-07-2022,923.46,79
+1510,Ava Sharma,Canada,Salicylic Acid Cleanser,10-01-2022,442.07,24
+1511,Liam Patel,Canada,Aloe Vera Gel,04-01-2022,3900.37,83
+1512,Ava Sharma,New Zealand,Body Butter Cream,02-06-2022,801.63,25
+1513,Isabella Roy,India,Aloe Vera Gel,03-03-2022,10101.78,251
+1514,Sophia Nair,Canada,Vitamin C Cream,29-05-2022,6600.15,417
+1515,Lucas Verma,USA,Niacinamide Toner,28-05-2022,5302.98,258
+1516,Noah Mehta,UK,Under Eye Cream,02-08-2022,6310.09,257
+1517,Noah Mehta,Canada,Hydrating Face Serum,17-07-2022,2369.18,211
+1518,Sophia Nair,UK,Aloe Vera Gel,14-05-2022,16418.97,358
+1519,Olivia D'Souza,New Zealand,Vitamin C Cream,15-01-2022,10774.83,226
+1520,Sophia Nair,Australia,Niacinamide Toner,13-04-2022,5958.48,162
+1521,Olivia D'Souza,USA,Tea Tree Moisturizer,22-07-2022,1194.96,74
+1522,Isabella Roy,Australia,Charcoal Face Wash,11-04-2022,314.68,18
+1523,Mason Kapoor,Australia,Anti-Aging Serum,18-06-2022,1442.65,91
+1524,Liam Patel,USA,Under Eye Cream,12-06-2022,2810.34,78
+1525,Mason Kapoor,UK,Under Eye Cream,13-01-2022,1394.62,57
+1526,Liam Patel,Australia,Niacinamide Toner,02-04-2022,8143.6,213
+1527,Mason Kapoor,UK,Body Butter Cream,10-07-2022,12885.94,340
+1528,Liam Patel,Canada,Lip Balm Pack,03-08-2022,16223.13,362
+1529,Noah Mehta,UK,Face Sheet Masks,18-03-2022,8330.47,217
+1530,Mason Kapoor,New Zealand,Rose Water Toner,19-06-2022,5384.2,290
+1531,Ava Sharma,India,Hydrating Face Serum,07-03-2022,19594.27,450
+1532,Ava Sharma,New Zealand,Vitamin C Cream,27-05-2022,12213.24,266
+1533,Lucas Verma,UK,Hydrating Face Serum,11-05-2022,4242.56,357
+1534,Mason Kapoor,Australia,Face Sheet Masks,20-03-2022,13379.16,498
+1535,Lucas Verma,Australia,Tea Tree Moisturizer,25-03-2022,9353.99,246
+1536,Ananya Gupta,New Zealand,Vitamin C Cream,26-08-2022,5032.73,147
+1537,Mason Kapoor,UK,Lip Balm Pack,09-01-2022,3041.08,103
+1538,Ananya Gupta,Canada,Hair Repair Oil,25-03-2022,3258.73,150
+1539,Liam Patel,USA,Anti-Aging Serum,17-05-2022,10452.26,242
+1540,Ethan Reddy,USA,Hydrating Face Serum,29-05-2022,8642.86,298
+1541,Ananya Gupta,India,Rose Water Toner,31-03-2022,2523.86,102
+1542,Ethan Reddy,Canada,Charcoal Face Wash,07-05-2022,11599.9,324
+1543,Liam Patel,New Zealand,SPF 50 Sunscreen,27-05-2022,15606.61,331
+1544,Mason Kapoor,New Zealand,Lip Balm Pack,13-07-2022,9583.51,312
+1545,Noah Mehta,New Zealand,Tea Tree Moisturizer,13-08-2022,10192.85,373
+1546,Olivia D'Souza,USA,Hydrating Face Serum,02-05-2022,21701.44,483
+1547,Sophia Nair,India,Hair Repair Oil,28-08-2022,6496.58,366
+1548,Ananya Gupta,New Zealand,Body Butter Cream,02-02-2022,16383.31,438
+1549,Mason Kapoor,New Zealand,Body Butter Cream,03-06-2022,15834.45,361
+1550,Noah Mehta,UK,Lip Balm Pack,17-05-2022,7501.02,489
+1551,Noah Mehta,UK,Hydrating Face Serum,24-06-2022,922.43,29
+1552,Ananya Gupta,India,Salicylic Acid Cleanser,28-04-2022,6141.45,213
+1553,Noah Mehta,New Zealand,Rose Water Toner,23-03-2022,1745.79,156
+1554,Liam Patel,New Zealand,Charcoal Face Wash,25-03-2022,7268.2,198
+1555,Sophia Nair,UK,SPF 50 Sunscreen,25-04-2022,424.38,30
+1556,Noah Mehta,New Zealand,Body Butter Cream,08-04-2022,10711.79,331
+1557,Noah Mehta,USA,Vitamin C Cream,23-03-2022,8154.9,248
+1558,Ava Sharma,New Zealand,Tea Tree Moisturizer,25-07-2022,5132.41,454
+1559,Isabella Roy,India,Vitamin C Cream,21-03-2022,6538.2,264
+1560,Ethan Reddy,USA,Rose Water Toner,11-07-2022,13625.75,406
+1561,Isabella Roy,Australia,SPF 50 Sunscreen,18-06-2022,3344.35,244
+1562,Sophia Nair,India,Aloe Vera Gel,02-03-2022,11456.29,325
+1563,Ava Sharma,India,Hair Repair Oil,19-04-2022,8946.01,434
+1564,Ananya Gupta,Australia,Hair Repair Oil,16-01-2022,15120.74,360
+1565,Ethan Reddy,Canada,Under Eye Cream,01-04-2022,9372.51,274
+1566,Ananya Gupta,UK,Hydrating Face Serum,22-05-2022,4531.42,107
+1567,Noah Mehta,USA,Aloe Vera Gel,13-01-2022,16283.5,456
+1568,Ava Sharma,Canada,Tea Tree Moisturizer,24-01-2022,10108.84,402
+1569,Noah Mehta,UK,Body Butter Cream,12-08-2022,3801.03,202
+1570,Liam Patel,USA,Anti-Aging Serum,08-07-2022,1308.08,51
+1571,Noah Mehta,Canada,Face Sheet Masks,09-07-2022,13195,285
+1572,Isabella Roy,Australia,Niacinamide Toner,25-04-2022,5223.33,152
+1573,Olivia D'Souza,Canada,Salicylic Acid Cleanser,30-08-2022,6102.47,146
+1574,Noah Mehta,Australia,Hydrating Face Serum,29-06-2022,8416.43,237
+1575,Isabella Roy,Canada,Under Eye Cream,22-05-2022,8215.87,334
+1576,Sophia Nair,Canada,SPF 50 Sunscreen,29-03-2022,6936.38,322
+1577,Olivia D'Souza,New Zealand,Under Eye Cream,04-03-2022,2422.62,180
+1578,Lucas Verma,USA,Anti-Aging Serum,13-01-2022,17090.34,366
+1579,Ava Sharma,Canada,Hydrating Face Serum,23-02-2022,10497.39,324
+1580,Sophia Nair,UK,Under Eye Cream,29-08-2022,569.78,14
+1581,Olivia D'Souza,UK,Hydrating Face Serum,15-03-2022,4103.17,124
+1582,Isabella Roy,Australia,SPF 50 Sunscreen,26-08-2022,891.11,73
+1583,Isabella Roy,UK,Hydrating Face Serum,18-01-2022,14127.27,465
+1584,Olivia D'Souza,USA,Aloe Vera Gel,25-03-2022,5150.27,218
+1585,Noah Mehta,USA,Face Sheet Masks,08-03-2022,146.7,13
+1586,Sophia Nair,New Zealand,Hair Repair Oil,17-02-2022,3812.92,118
+1587,Mason Kapoor,USA,Niacinamide Toner,23-07-2022,9450.04,218
+1588,Noah Mehta,UK,Face Sheet Masks,14-02-2022,6457.54,293
+1589,Olivia D'Souza,UK,Under Eye Cream,19-02-2022,7925.54,309
+1590,Lucas Verma,USA,Tea Tree Moisturizer,13-04-2022,16861.45,385
+1591,Lucas Verma,New Zealand,Salicylic Acid Cleanser,17-08-2022,1650.87,72
+1592,Ananya Gupta,Australia,Hair Repair Oil,15-07-2022,19861.82,424
+1593,Isabella Roy,Canada,Body Butter Cream,08-06-2022,10647.12,234
+1594,Olivia D'Souza,Australia,SPF 50 Sunscreen,03-06-2022,1564.91,49
+1595,Liam Patel,India,Tea Tree Moisturizer,10-01-2022,2126.3,89
+1596,Liam Patel,India,Niacinamide Toner,09-04-2022,2893.74,204
+1597,Isabella Roy,Australia,Tea Tree Moisturizer,17-04-2022,13434.96,283
+1598,Ethan Reddy,India,Lip Balm Pack,05-07-2022,8273.51,169
+1599,Noah Mehta,UK,Charcoal Face Wash,07-04-2022,4063.64,149
+1600,Olivia D'Souza,UK,Aloe Vera Gel,06-08-2022,6650.47,471
+1601,Liam Patel,USA,Hydrating Face Serum,08-02-2022,4463.32,295
+1602,Ava Sharma,USA,SPF 50 Sunscreen,10-03-2022,16996.07,471
+1603,Olivia D'Souza,UK,Tea Tree Moisturizer,30-08-2022,4768.41,183
+1604,Isabella Roy,Australia,Face Sheet Masks,30-03-2022,18046.13,401
+1605,Mason Kapoor,USA,Aloe Vera Gel,18-05-2022,868.92,46
+1606,Liam Patel,Australia,Charcoal Face Wash,26-01-2022,4759.75,96
+1607,Isabella Roy,USA,Rose Water Toner,22-03-2022,19576.41,402
+1608,Sophia Nair,USA,Lip Balm Pack,20-06-2022,4824.94,235
+1609,Isabella Roy,Canada,Hair Repair Oil,19-05-2022,5555.52,150
+1610,Lucas Verma,USA,Aloe Vera Gel,28-01-2022,6004.2,126
+1611,Sophia Nair,USA,SPF 50 Sunscreen,06-04-2022,12369.81,456
+1612,Noah Mehta,UK,Lip Balm Pack,23-05-2022,861.89,29
+1613,Ava Sharma,Australia,Vitamin C Cream,11-03-2022,6048.32,360
+1614,Sophia Nair,India,Body Butter Cream,02-06-2022,15051.5,418
+1615,Mason Kapoor,UK,Under Eye Cream,18-05-2022,756.72,24
+1616,Isabella Roy,Canada,Salicylic Acid Cleanser,22-06-2022,534.64,22
+1617,Ava Sharma,Canada,Aloe Vera Gel,11-04-2022,12424.63,360
+1618,Liam Patel,India,Face Sheet Masks,18-05-2022,15136.25,354
+1619,Liam Patel,UK,Face Sheet Masks,28-03-2022,580.35,31
+1620,Ananya Gupta,India,Charcoal Face Wash,30-08-2022,5804.87,119
+1621,Noah Mehta,New Zealand,Face Sheet Masks,30-01-2022,23152.04,487
+1622,Mason Kapoor,Canada,SPF 50 Sunscreen,19-08-2022,6174.38,232
+1623,Lucas Verma,India,Tea Tree Moisturizer,07-07-2022,16619.54,425
+1624,Lucas Verma,New Zealand,Face Sheet Masks,10-06-2022,3214.37,161
+1625,Mason Kapoor,Australia,Vitamin C Cream,13-08-2022,16037.03,475
+1626,Lucas Verma,USA,Charcoal Face Wash,30-03-2022,6455.88,299
+1627,Isabella Roy,New Zealand,SPF 50 Sunscreen,15-03-2022,20659.54,478
+1628,Olivia D'Souza,Canada,Under Eye Cream,19-04-2022,19030.11,434
+1629,Noah Mehta,India,Hair Repair Oil,07-05-2022,5042.61,140
+1630,Sophia Nair,UK,SPF 50 Sunscreen,11-02-2022,15274.46,350
+1631,Mason Kapoor,USA,Charcoal Face Wash,16-03-2022,13934.58,498
+1632,Lucas Verma,Australia,SPF 50 Sunscreen,13-08-2022,858.68,73
+1633,Ananya Gupta,India,Hair Repair Oil,01-05-2022,10382.3,390
+1634,Olivia D'Souza,USA,Hair Repair Oil,27-01-2022,7825.06,499
+1635,Mason Kapoor,Canada,Anti-Aging Serum,19-05-2022,329,16
+1636,Isabella Roy,Australia,Rose Water Toner,04-07-2022,7014.04,191
+1637,Olivia D'Souza,India,Anti-Aging Serum,02-01-2022,9390.28,433
+1638,Noah Mehta,New Zealand,SPF 50 Sunscreen,26-08-2022,3368.14,279
+1639,Olivia D'Souza,Australia,Aloe Vera Gel,31-07-2022,2200.4,152
+1640,Sophia Nair,New Zealand,Face Sheet Masks,11-06-2022,381.6,23
+1641,Lucas Verma,USA,Body Butter Cream,26-02-2022,16452.13,440
+1642,Noah Mehta,India,Lip Balm Pack,02-07-2022,7364.22,306
+1643,Olivia D'Souza,USA,Face Sheet Masks,01-06-2022,11031.64,300
+1644,Ethan Reddy,India,Vitamin C Cream,24-02-2022,715.01,37
+1645,Ananya Gupta,Canada,Salicylic Acid Cleanser,01-03-2022,5699.19,197
+1646,Ava Sharma,India,SPF 50 Sunscreen,16-02-2022,7524.98,189
+1647,Sophia Nair,Australia,Hair Repair Oil,01-01-2022,10002.88,253
+1648,Liam Patel,New Zealand,Hair Repair Oil,29-05-2022,3812.45,85
+1649,Lucas Verma,Australia,Charcoal Face Wash,03-08-2022,6717.5,354
+1650,Ananya Gupta,Australia,Tea Tree Moisturizer,09-05-2022,8326.18,167
+1651,Isabella Roy,New Zealand,Salicylic Acid Cleanser,31-01-2022,5177.5,120
+1652,Ava Sharma,India,Body Butter Cream,02-07-2022,12188.95,362
+1653,Olivia D'Souza,India,Hair Repair Oil,23-07-2022,1225.41,80
+1654,Liam Patel,UK,Tea Tree Moisturizer,28-04-2022,16191.56,422
+1655,Olivia D'Souza,New Zealand,Lip Balm Pack,01-05-2022,10095.38,364
+1656,Ava Sharma,USA,Lip Balm Pack,24-03-2022,8901.98,335
+1657,Ethan Reddy,India,Under Eye Cream,20-08-2022,1761.2,138
+1658,Ava Sharma,UK,Rose Water Toner,02-05-2022,15189.5,308
+1659,Ananya Gupta,USA,Anti-Aging Serum,27-01-2022,7077.02,189
+1660,Sophia Nair,Australia,Tea Tree Moisturizer,21-06-2022,16495.37,424
+1661,Noah Mehta,UK,Vitamin C Cream,27-02-2022,6530.73,215
+1662,Noah Mehta,Australia,Under Eye Cream,05-06-2022,12915.63,388
+1663,Isabella Roy,Canada,Hydrating Face Serum,06-08-2022,16425.05,375
+1664,Olivia D'Souza,Australia,Hair Repair Oil,12-06-2022,6775,352
+1665,Lucas Verma,Canada,Lip Balm Pack,24-03-2022,4553.78,237
+1666,Liam Patel,USA,Anti-Aging Serum,17-04-2022,20895.19,482
+1667,Sophia Nair,UK,Hydrating Face Serum,16-07-2022,14822.36,318
+1668,Ethan Reddy,New Zealand,Rose Water Toner,27-03-2022,3428.81,225
+1669,Mason Kapoor,USA,Hydrating Face Serum,10-06-2022,2925.47,224
+1670,Lucas Verma,Canada,Tea Tree Moisturizer,10-01-2022,19444.09,452
+1671,Ethan Reddy,UK,Hair Repair Oil,09-03-2022,8591.2,176
+1672,Lucas Verma,UK,Body Butter Cream,30-04-2022,2289.16,167
+1673,Ananya Gupta,UK,Hydrating Face Serum,01-06-2022,6384.11,265
+1674,Lucas Verma,USA,Hydrating Face Serum,10-01-2022,2747.98,115
+1675,Liam Patel,Australia,Aloe Vera Gel,27-04-2022,6324.87,296
+1676,Liam Patel,USA,Anti-Aging Serum,19-01-2022,4592.38,155
+1677,Olivia D'Souza,UK,Tea Tree Moisturizer,29-05-2022,5016.53,164
+1678,Ethan Reddy,USA,Anti-Aging Serum,19-03-2022,636.78,43
+1679,Liam Patel,India,Vitamin C Cream,28-03-2022,2948.69,189
+1680,Ethan Reddy,Canada,Under Eye Cream,19-04-2022,19971.42,463
+1681,Ava Sharma,Australia,Salicylic Acid Cleanser,18-06-2022,8218.19,439
+1682,Ethan Reddy,Canada,Niacinamide Toner,21-07-2022,4964.03,225
+1683,Ethan Reddy,Australia,Tea Tree Moisturizer,21-02-2022,7881.92,253
+1684,Isabella Roy,India,Salicylic Acid Cleanser,28-08-2022,15267.53,321
+1685,Isabella Roy,USA,Hair Repair Oil,02-04-2022,16343.94,485
+1686,Sophia Nair,USA,Niacinamide Toner,06-01-2022,10904.55,236
+1687,Ethan Reddy,USA,Under Eye Cream,16-07-2022,3205,81
+1688,Olivia D'Souza,New Zealand,Under Eye Cream,18-01-2022,5771.22,140
+1689,Mason Kapoor,Australia,Charcoal Face Wash,24-03-2022,3977.2,80
+1690,Noah Mehta,New Zealand,Salicylic Acid Cleanser,21-02-2022,8919.5,363
+1691,Mason Kapoor,UK,Vitamin C Cream,06-04-2022,23284.44,499
+1692,Isabella Roy,Australia,Face Sheet Masks,27-04-2022,4260.44,103
+1693,Ava Sharma,India,Rose Water Toner,14-03-2022,7570.61,159
+1694,Ethan Reddy,Australia,Body Butter Cream,31-03-2022,18742.38,469
+1695,Mason Kapoor,UK,Anti-Aging Serum,07-07-2022,8787.8,249
+1696,Lucas Verma,New Zealand,Under Eye Cream,01-07-2022,16253.66,423
+1697,Lucas Verma,India,Aloe Vera Gel,06-05-2022,10789.63,436
+1698,Olivia D'Souza,Canada,Under Eye Cream,20-03-2022,841.52,27
+1699,Lucas Verma,UK,Under Eye Cream,30-01-2022,5926.16,152
+1700,Ava Sharma,Australia,Anti-Aging Serum,02-06-2022,7066.65,221
+1701,Olivia D'Souza,New Zealand,Body Butter Cream,01-04-2022,11533.13,427
+1702,Ava Sharma,Australia,Tea Tree Moisturizer,10-06-2022,6390.52,146
+1703,Sophia Nair,USA,Face Sheet Masks,09-06-2022,444.44,15
+1704,Ava Sharma,New Zealand,SPF 50 Sunscreen,15-06-2022,7220.46,171
+1705,Noah Mehta,Canada,SPF 50 Sunscreen,24-02-2022,3490.94,120
+1706,Mason Kapoor,Canada,Tea Tree Moisturizer,12-08-2022,7408.06,168
+1707,Noah Mehta,Canada,Rose Water Toner,31-07-2022,4111.71,175
+1708,Ananya Gupta,India,Tea Tree Moisturizer,28-03-2022,3823.54,269
+1709,Mason Kapoor,Australia,Lip Balm Pack,06-07-2022,4542.86,186
+1710,Noah Mehta,UK,Hydrating Face Serum,29-04-2022,527.39,11
+1711,Liam Patel,USA,Anti-Aging Serum,22-02-2022,4013.93,124
+1712,Ava Sharma,Australia,Niacinamide Toner,12-01-2022,593.94,38
+1713,Ethan Reddy,UK,SPF 50 Sunscreen,08-01-2022,4318.42,175
+1714,Sophia Nair,USA,Salicylic Acid Cleanser,15-05-2022,5293.89,144
+1715,Noah Mehta,USA,Under Eye Cream,24-01-2022,3165.41,181
+1716,Ethan Reddy,USA,Aloe Vera Gel,24-04-2022,5212.22,224
+1717,Ananya Gupta,UK,Tea Tree Moisturizer,12-06-2022,4320.88,211
+1718,Ananya Gupta,UK,Anti-Aging Serum,27-08-2022,434.03,16
+1719,Ava Sharma,USA,Rose Water Toner,22-02-2022,15708.48,486
+1720,Noah Mehta,New Zealand,Hair Repair Oil,26-05-2022,411.5,16
+1721,Liam Patel,Australia,Face Sheet Masks,30-07-2022,2124.81,101
+1722,Noah Mehta,Australia,Vitamin C Cream,12-01-2022,984.79,32
+1723,Ananya Gupta,New Zealand,Hydrating Face Serum,26-04-2022,13049.1,327
+1724,Olivia D'Souza,India,Body Butter Cream,29-06-2022,956.42,21
+1725,Ananya Gupta,New Zealand,SPF 50 Sunscreen,15-04-2022,5712.21,337
+1726,Isabella Roy,India,Niacinamide Toner,28-04-2022,6985.76,410
+1727,Ethan Reddy,USA,Niacinamide Toner,10-08-2022,10122.81,236
+1728,Olivia D'Souza,USA,Lip Balm Pack,22-01-2022,4746.86,321
+1729,Ava Sharma,UK,Hydrating Face Serum,19-03-2022,365.6,18
+1730,Sophia Nair,New Zealand,Face Sheet Masks,15-08-2022,9791.02,385
+1731,Lucas Verma,USA,Vitamin C Cream,23-01-2022,6966.13,364
+1732,Noah Mehta,USA,Tea Tree Moisturizer,20-01-2022,14282.35,458
+1733,Isabella Roy,Canada,Vitamin C Cream,24-08-2022,2735.77,73
+1734,Ethan Reddy,Canada,Hydrating Face Serum,17-02-2022,5503.98,338
+1735,Ananya Gupta,UK,Hydrating Face Serum,04-05-2022,10872.5,351
+1736,Ananya Gupta,Australia,Aloe Vera Gel,06-01-2022,4158.5,286
+1737,Ethan Reddy,Australia,Hair Repair Oil,15-04-2022,23977.48,481
+1738,Liam Patel,New Zealand,Charcoal Face Wash,25-08-2022,5031.06,161
+1739,Noah Mehta,Canada,Vitamin C Cream,31-05-2022,7460.34,356
+1740,Ethan Reddy,USA,Niacinamide Toner,08-07-2022,6613.2,186
+1741,Ethan Reddy,New Zealand,Lip Balm Pack,30-04-2022,708.87,36
+1742,Isabella Roy,New Zealand,Hydrating Face Serum,16-06-2022,10445.39,306
+1743,Sophia Nair,Australia,Vitamin C Cream,11-04-2022,5797.63,254
+1744,Sophia Nair,India,Anti-Aging Serum,19-03-2022,10473.97,441
+1745,Isabella Roy,Canada,Hair Repair Oil,15-07-2022,1372.66,33
+1746,Isabella Roy,New Zealand,SPF 50 Sunscreen,03-03-2022,11414.54,333
+1747,Noah Mehta,India,Vitamin C Cream,16-05-2022,631.36,41
+1748,Lucas Verma,Australia,Anti-Aging Serum,30-03-2022,6093.04,357
+1749,Olivia D'Souza,Australia,Hair Repair Oil,13-04-2022,3335.93,270
+1750,Isabella Roy,USA,Lip Balm Pack,11-06-2022,15130.24,384
+1751,Liam Patel,Australia,Charcoal Face Wash,05-03-2022,3321.69,145
+1752,Sophia Nair,New Zealand,Aloe Vera Gel,16-08-2022,2336.36,119
+1753,Noah Mehta,USA,Hydrating Face Serum,15-04-2022,19443.77,420
+1754,Olivia D'Souza,Canada,Tea Tree Moisturizer,31-01-2022,4534.5,161
+1755,Ananya Gupta,UK,Hydrating Face Serum,24-08-2022,1027.1,69
+1756,Ethan Reddy,India,Hair Repair Oil,15-03-2022,2883,66
+1757,Mason Kapoor,New Zealand,Charcoal Face Wash,08-01-2022,2593.64,66
+1758,Mason Kapoor,UK,Hydrating Face Serum,03-04-2022,5802.73,433
+1759,Ethan Reddy,Australia,Hydrating Face Serum,18-05-2022,11992.11,257
+1760,Ananya Gupta,USA,Hair Repair Oil,07-02-2022,352.92,30
+1761,Ava Sharma,New Zealand,Tea Tree Moisturizer,28-05-2022,7024.11,190
+1762,Sophia Nair,New Zealand,Hair Repair Oil,31-05-2022,2884.52,118
+1763,Ananya Gupta,USA,Face Sheet Masks,26-06-2022,5022.76,154
+1764,Ananya Gupta,New Zealand,Lip Balm Pack,18-08-2022,5250.58,299
+1765,Ethan Reddy,USA,Niacinamide Toner,09-05-2022,2584.15,108
+1766,Mason Kapoor,USA,Vitamin C Cream,13-07-2022,8581.27,190
+1767,Sophia Nair,New Zealand,Lip Balm Pack,03-06-2022,559.73,12
+1768,Olivia D'Souza,India,Face Sheet Masks,07-06-2022,12905.06,498
+1769,Sophia Nair,USA,Hair Repair Oil,24-06-2022,13509.42,296
+1770,Ananya Gupta,India,Salicylic Acid Cleanser,29-05-2022,3116.98,148
+1771,Isabella Roy,USA,Anti-Aging Serum,05-06-2022,1123.46,56
+1772,Ethan Reddy,USA,Niacinamide Toner,30-03-2022,18188.8,495
+1773,Mason Kapoor,USA,Rose Water Toner,25-01-2022,8484.94,317
+1774,Sophia Nair,New Zealand,Aloe Vera Gel,22-07-2022,6693.75,476
+1775,Noah Mehta,New Zealand,Body Butter Cream,27-06-2022,9682.74,394
+1776,Isabella Roy,Australia,Anti-Aging Serum,19-01-2022,3241.7,232
+1777,Liam Patel,India,Tea Tree Moisturizer,29-03-2022,10885.26,233
+1778,Olivia D'Souza,USA,Anti-Aging Serum,24-06-2022,4934.32,194
+1779,Ethan Reddy,New Zealand,Anti-Aging Serum,24-03-2022,21726.67,436
+1780,Ethan Reddy,New Zealand,Body Butter Cream,18-04-2022,5873.54,355
+1781,Ananya Gupta,Canada,Salicylic Acid Cleanser,10-07-2022,9561.31,268
+1782,Ananya Gupta,Australia,Charcoal Face Wash,26-02-2022,3463.01,74
+1783,Isabella Roy,USA,Charcoal Face Wash,23-06-2022,136.05,11
+1784,Olivia D'Souza,Australia,Lip Balm Pack,21-05-2022,3525.11,215
+1785,Olivia D'Souza,Australia,Charcoal Face Wash,08-04-2022,4819.15,332
+1786,Liam Patel,Canada,Niacinamide Toner,21-08-2022,5661.96,136
+1787,Isabella Roy,Australia,Vitamin C Cream,28-01-2022,980.84,39
+1788,Lucas Verma,Australia,Charcoal Face Wash,05-08-2022,1430.77,38
+1789,Noah Mehta,India,Niacinamide Toner,27-07-2022,1178.22,40
+1790,Lucas Verma,New Zealand,Body Butter Cream,18-02-2022,9645.48,286
+1791,Mason Kapoor,New Zealand,Hydrating Face Serum,11-02-2022,3703.09,141
+1792,Ava Sharma,New Zealand,SPF 50 Sunscreen,28-02-2022,10465.99,393
+1793,Sophia Nair,India,Vitamin C Cream,27-03-2022,11297.48,314
+1794,Ananya Gupta,USA,Anti-Aging Serum,26-07-2022,9203.38,400
+1795,Lucas Verma,India,Face Sheet Masks,07-07-2022,10092.43,239
+1796,Ethan Reddy,New Zealand,Hair Repair Oil,11-07-2022,2394.9,84
+1797,Ethan Reddy,Australia,Vitamin C Cream,31-01-2022,4157.41,264
+1798,Mason Kapoor,Australia,Tea Tree Moisturizer,28-06-2022,3986.46,140
+1799,Sophia Nair,New Zealand,Lip Balm Pack,03-06-2022,16045.86,477
+1800,Ethan Reddy,New Zealand,Aloe Vera Gel,27-01-2022,5616.37,246
+1801,Isabella Roy,India,Under Eye Cream,11-08-2022,1741.42,42
+1802,Mason Kapoor,Australia,Niacinamide Toner,27-07-2022,4344.35,109
+1803,Liam Patel,USA,Body Butter Cream,09-03-2022,8483.48,342
+1804,Olivia D'Souza,New Zealand,Salicylic Acid Cleanser,06-05-2022,723.29,27
+1805,Lucas Verma,UK,Salicylic Acid Cleanser,20-01-2022,4476,343
+1806,Sophia Nair,New Zealand,SPF 50 Sunscreen,09-05-2022,13449.54,299
+1807,Ananya Gupta,New Zealand,Niacinamide Toner,27-07-2022,13220.1,305
+1808,Olivia D'Souza,Australia,SPF 50 Sunscreen,03-06-2022,16987.7,411
+1809,Ananya Gupta,Australia,Lip Balm Pack,10-07-2022,9085.51,237
+1810,Olivia D'Souza,USA,Anti-Aging Serum,27-06-2022,11544.08,423
+1811,Olivia D'Souza,USA,Vitamin C Cream,23-04-2022,12587.78,297
+1812,Liam Patel,Canada,Salicylic Acid Cleanser,17-04-2022,12202.64,321
+1813,Ava Sharma,UK,SPF 50 Sunscreen,23-01-2022,6319.71,366
+1814,Olivia D'Souza,New Zealand,Under Eye Cream,18-02-2022,16902.63,472
+1815,Liam Patel,India,Tea Tree Moisturizer,03-08-2022,5408.77,412
+1816,Ananya Gupta,New Zealand,Face Sheet Masks,02-05-2022,11725.2,314
+1817,Liam Patel,Canada,Tea Tree Moisturizer,22-04-2022,9669.71,376
+1818,Ananya Gupta,New Zealand,Vitamin C Cream,03-01-2022,2875.15,201
+1819,Sophia Nair,India,Anti-Aging Serum,11-03-2022,14214.55,447
+1820,Mason Kapoor,India,Body Butter Cream,05-03-2022,1195.52,29
+1821,Olivia D'Souza,Australia,Under Eye Cream,04-05-2022,16375.54,491
+1822,Ethan Reddy,New Zealand,Aloe Vera Gel,24-03-2022,8190.32,240
+1823,Ethan Reddy,New Zealand,Under Eye Cream,24-05-2022,19125.15,488
+1824,Lucas Verma,Australia,Hair Repair Oil,15-04-2022,585.65,20
+1825,Lucas Verma,UK,Aloe Vera Gel,26-03-2022,20317.26,485
+1826,Mason Kapoor,New Zealand,Rose Water Toner,07-08-2022,9887.34,320
+1827,Sophia Nair,Canada,Anti-Aging Serum,31-07-2022,8194.42,276
+1828,Isabella Roy,Australia,Under Eye Cream,26-03-2022,7471.71,491
+1829,Sophia Nair,UK,SPF 50 Sunscreen,02-06-2022,7060.26,142
+1830,Olivia D'Souza,UK,Salicylic Acid Cleanser,02-06-2022,13053.64,282
+1831,Mason Kapoor,USA,Anti-Aging Serum,29-04-2022,8399.02,181
+1832,Olivia D'Souza,UK,Hydrating Face Serum,11-03-2022,7990.6,199
+1833,Olivia D'Souza,Australia,Aloe Vera Gel,25-07-2022,11098.01,225
+1834,Lucas Verma,Australia,Body Butter Cream,03-05-2022,19951.07,426
+1835,Lucas Verma,Australia,Hydrating Face Serum,08-01-2022,119.82,10
+1836,Sophia Nair,USA,Anti-Aging Serum,02-01-2022,12551.57,377
+1837,Noah Mehta,USA,Rose Water Toner,29-07-2022,7718.1,265
+1838,Ananya Gupta,New Zealand,Body Butter Cream,29-07-2022,6264.79,163
+1839,Ethan Reddy,Australia,Niacinamide Toner,06-01-2022,1617.05,69
+1840,Isabella Roy,India,Charcoal Face Wash,26-03-2022,2630.52,64
+1841,Olivia D'Souza,USA,SPF 50 Sunscreen,28-08-2022,5024.53,251
+1842,Lucas Verma,Canada,Hair Repair Oil,27-01-2022,19586.58,451
+1843,Lucas Verma,Canada,Under Eye Cream,11-07-2022,1905.06,40
+1844,Mason Kapoor,India,Anti-Aging Serum,12-04-2022,5032.22,474
+1845,Isabella Roy,UK,Tea Tree Moisturizer,19-04-2022,7678.26,236
+1846,Olivia D'Souza,UK,Vitamin C Cream,10-02-2022,20181,409
+1847,Olivia D'Souza,Canada,Anti-Aging Serum,04-01-2022,8709.22,178
+1848,Liam Patel,UK,Face Sheet Masks,01-08-2022,18763.82,444
+1849,Lucas Verma,Australia,Hair Repair Oil,20-03-2022,11343.37,269
+1850,Liam Patel,UK,Vitamin C Cream,13-06-2022,4905.1,248
+1851,Ava Sharma,USA,Charcoal Face Wash,17-03-2022,10071.75,204
+1852,Sophia Nair,Canada,Hair Repair Oil,31-07-2022,5025.69,133
+1853,Olivia D'Souza,New Zealand,Charcoal Face Wash,30-08-2022,1274.86,81
+1854,Noah Mehta,USA,Face Sheet Masks,05-04-2022,2848.07,193
+1855,Isabella Roy,Australia,Rose Water Toner,19-06-2022,5431.35,152
+1856,Olivia D'Souza,UK,Rose Water Toner,21-06-2022,23090.87,482
+1857,Ananya Gupta,Australia,Anti-Aging Serum,11-06-2022,13289.99,273
+1858,Isabella Roy,Canada,SPF 50 Sunscreen,02-04-2022,14114.16,422
+1859,Liam Patel,Australia,Charcoal Face Wash,14-03-2022,3064.72,251
+1860,Noah Mehta,UK,Lip Balm Pack,03-07-2022,13987.08,372
+1861,Olivia D'Souza,UK,Niacinamide Toner,18-07-2022,17890.38,457
+1862,Ananya Gupta,UK,Tea Tree Moisturizer,01-08-2022,11345.7,487
+1863,Liam Patel,USA,Under Eye Cream,05-05-2022,3795.64,206
+1864,Lucas Verma,USA,SPF 50 Sunscreen,26-07-2022,1004.71,21
+1865,Liam Patel,Australia,Vitamin C Cream,30-05-2022,5575.62,371
+1866,Ananya Gupta,New Zealand,Hydrating Face Serum,07-05-2022,12563.44,420
+1867,Ananya Gupta,USA,Lip Balm Pack,21-06-2022,4983.24,143
+1868,Sophia Nair,New Zealand,Salicylic Acid Cleanser,16-08-2022,782.09,19
+1869,Liam Patel,UK,Vitamin C Cream,17-08-2022,17614.9,386
+1870,Lucas Verma,Canada,Aloe Vera Gel,30-04-2022,7897.13,358
+1871,Ethan Reddy,UK,Aloe Vera Gel,25-01-2022,16376.88,449
+1872,Ananya Gupta,India,Body Butter Cream,22-08-2022,5599.68,264
+1873,Ananya Gupta,New Zealand,Salicylic Acid Cleanser,26-08-2022,2966.47,144
+1874,Sophia Nair,UK,Body Butter Cream,19-05-2022,6828.68,484
+1875,Ananya Gupta,UK,Lip Balm Pack,27-08-2022,2555.95,192
+1876,Ananya Gupta,New Zealand,Rose Water Toner,29-04-2022,832.92,19
+1877,Sophia Nair,New Zealand,Tea Tree Moisturizer,15-07-2022,997.96,36
+1878,Isabella Roy,New Zealand,Lip Balm Pack,04-02-2022,7754.36,466
+1879,Noah Mehta,India,Aloe Vera Gel,16-05-2022,5507.19,176
+1880,Olivia D'Souza,Australia,Body Butter Cream,27-01-2022,1119.66,87
+1881,Sophia Nair,USA,Face Sheet Masks,02-06-2022,6853.59,384
+1882,Ava Sharma,USA,Hair Repair Oil,06-04-2022,12147.98,254
+1883,Lucas Verma,New Zealand,Aloe Vera Gel,26-07-2022,923.46,79
+1884,Ava Sharma,Canada,Salicylic Acid Cleanser,10-01-2022,442.07,24
+1885,Liam Patel,Canada,Aloe Vera Gel,04-01-2022,3900.37,83
+1886,Ava Sharma,New Zealand,Body Butter Cream,02-06-2022,801.63,25
+1887,Isabella Roy,India,Aloe Vera Gel,03-03-2022,10101.78,251
+1888,Sophia Nair,Canada,Vitamin C Cream,29-05-2022,6600.15,417
+1889,Lucas Verma,USA,Niacinamide Toner,28-05-2022,5302.98,258
+1890,Noah Mehta,UK,Under Eye Cream,02-08-2022,6310.09,257
+1891,Noah Mehta,Canada,Hydrating Face Serum,17-07-2022,2369.18,211
+1892,Sophia Nair,UK,Aloe Vera Gel,14-05-2022,16418.97,358
+1893,Olivia D'Souza,New Zealand,Vitamin C Cream,15-01-2022,10774.83,226
+1894,Sophia Nair,Australia,Niacinamide Toner,13-04-2022,5958.48,162
+1895,Olivia D'Souza,USA,Tea Tree Moisturizer,22-07-2022,1194.96,74
+1896,Isabella Roy,Australia,Charcoal Face Wash,11-04-2022,314.68,18
+1897,Mason Kapoor,Australia,Anti-Aging Serum,18-06-2022,1442.65,91
+1898,Liam Patel,USA,Under Eye Cream,12-06-2022,2810.34,78
+1899,Mason Kapoor,UK,Under Eye Cream,13-01-2022,1394.62,57
+1900,Liam Patel,Australia,Niacinamide Toner,02-04-2022,8143.6,213
+1901,Mason Kapoor,UK,Body Butter Cream,10-07-2022,12885.94,340
+1902,Liam Patel,Canada,Lip Balm Pack,03-08-2022,16223.13,362
+1903,Noah Mehta,UK,Face Sheet Masks,18-03-2022,8330.47,217
+1904,Mason Kapoor,New Zealand,Rose Water Toner,19-06-2022,5384.2,290
+1905,Ava Sharma,India,Hydrating Face Serum,07-03-2022,19594.27,450
+1906,Ava Sharma,New Zealand,Vitamin C Cream,27-05-2022,12213.24,266
+1907,Lucas Verma,UK,Hydrating Face Serum,11-05-2022,4242.56,357
+1908,Mason Kapoor,Australia,Face Sheet Masks,20-03-2022,13379.16,498
+1909,Lucas Verma,Australia,Tea Tree Moisturizer,25-03-2022,9353.99,246
+1910,Ananya Gupta,New Zealand,Vitamin C Cream,26-08-2022,5032.73,147
+1911,Mason Kapoor,UK,Lip Balm Pack,09-01-2022,3041.08,103
+1912,Ananya Gupta,Canada,Hair Repair Oil,25-03-2022,3258.73,150
+1913,Liam Patel,USA,Anti-Aging Serum,17-05-2022,10452.26,242
+1914,Ethan Reddy,USA,Hydrating Face Serum,29-05-2022,8642.86,298
+1915,Ananya Gupta,India,Rose Water Toner,31-03-2022,2523.86,102
+1916,Ethan Reddy,Canada,Charcoal Face Wash,07-05-2022,11599.9,324
+1917,Liam Patel,New Zealand,SPF 50 Sunscreen,27-05-2022,15606.61,331
+1918,Mason Kapoor,New Zealand,Lip Balm Pack,13-07-2022,9583.51,312
+1919,Noah Mehta,New Zealand,Tea Tree Moisturizer,13-08-2022,10192.85,373
+1920,Olivia D'Souza,USA,Hydrating Face Serum,02-05-2022,21701.44,483
+1921,Sophia Nair,India,Hair Repair Oil,28-08-2022,6496.58,366
+1922,Ananya Gupta,New Zealand,Body Butter Cream,02-02-2022,16383.31,438
+1923,Mason Kapoor,New Zealand,Body Butter Cream,03-06-2022,15834.45,361
+1924,Noah Mehta,UK,Lip Balm Pack,17-05-2022,7501.02,489
+1925,Noah Mehta,UK,Hydrating Face Serum,24-06-2022,922.43,29
+1926,Ananya Gupta,India,Salicylic Acid Cleanser,28-04-2022,6141.45,213
+1927,Noah Mehta,New Zealand,Rose Water Toner,23-03-2022,1745.79,156
+1928,Liam Patel,New Zealand,Charcoal Face Wash,25-03-2022,7268.2,198
+1929,Sophia Nair,UK,SPF 50 Sunscreen,25-04-2022,424.38,30
+1930,Noah Mehta,New Zealand,Body Butter Cream,08-04-2022,10711.79,331
+1931,Noah Mehta,USA,Vitamin C Cream,23-03-2022,8154.9,248
+1932,Ava Sharma,New Zealand,Tea Tree Moisturizer,25-07-2022,5132.41,454
+1933,Isabella Roy,India,Vitamin C Cream,21-03-2022,6538.2,264
+1934,Ethan Reddy,USA,Rose Water Toner,11-07-2022,13625.75,406
+1935,Isabella Roy,Australia,SPF 50 Sunscreen,18-06-2022,3344.35,244
+1936,Sophia Nair,India,Aloe Vera Gel,02-03-2022,11456.29,325
+1937,Ava Sharma,India,Hair Repair Oil,19-04-2022,8946.01,434
+1938,Ananya Gupta,Australia,Hair Repair Oil,16-01-2022,15120.74,360
+1939,Ethan Reddy,Canada,Under Eye Cream,01-04-2022,9372.51,274
+1940,Ananya Gupta,UK,Hydrating Face Serum,22-05-2022,4531.42,107
+1941,Noah Mehta,USA,Aloe Vera Gel,13-01-2022,16283.5,456
+1942,Ava Sharma,Canada,Tea Tree Moisturizer,24-01-2022,10108.84,402
+1943,Noah Mehta,UK,Body Butter Cream,12-08-2022,3801.03,202
+1944,Liam Patel,USA,Anti-Aging Serum,08-07-2022,1308.08,51
+1945,Noah Mehta,Canada,Face Sheet Masks,09-07-2022,13195,285
+1946,Isabella Roy,Australia,Niacinamide Toner,25-04-2022,5223.33,152
+1947,Olivia D'Souza,Canada,Salicylic Acid Cleanser,30-08-2022,6102.47,146
+1948,Noah Mehta,Australia,Hydrating Face Serum,29-06-2022,8416.43,237
+1949,Isabella Roy,Canada,Under Eye Cream,22-05-2022,8215.87,334
+1950,Sophia Nair,Canada,SPF 50 Sunscreen,29-03-2022,6936.38,322
+1951,Olivia D'Souza,New Zealand,Under Eye Cream,04-03-2022,2422.62,180
+1952,Lucas Verma,USA,Anti-Aging Serum,13-01-2022,17090.34,366
+1953,Ava Sharma,Canada,Hydrating Face Serum,23-02-2022,10497.39,324
+1954,Sophia Nair,UK,Under Eye Cream,29-08-2022,569.78,14
+1955,Olivia D'Souza,UK,Hydrating Face Serum,15-03-2022,4103.17,124
+1956,Isabella Roy,Australia,SPF 50 Sunscreen,26-08-2022,891.11,73
+1957,Isabella Roy,UK,Hydrating Face Serum,18-01-2022,14127.27,465
+1958,Olivia D'Souza,USA,Aloe Vera Gel,25-03-2022,5150.27,218
+1959,Noah Mehta,USA,Face Sheet Masks,08-03-2022,146.7,13
+1960,Sophia Nair,New Zealand,Hair Repair Oil,17-02-2022,3812.92,118
+1961,Mason Kapoor,USA,Niacinamide Toner,23-07-2022,9450.04,218
+1962,Noah Mehta,UK,Face Sheet Masks,14-02-2022,6457.54,293
+1963,Olivia D'Souza,UK,Under Eye Cream,19-02-2022,7925.54,309
+1964,Lucas Verma,USA,Tea Tree Moisturizer,13-04-2022,16861.45,385
+1965,Lucas Verma,New Zealand,Salicylic Acid Cleanser,17-08-2022,1650.87,72
+1966,Ananya Gupta,Australia,Hair Repair Oil,15-07-2022,19861.82,424
+1967,Isabella Roy,Canada,Body Butter Cream,08-06-2022,10647.12,234
+1968,Olivia D'Souza,Australia,SPF 50 Sunscreen,03-06-2022,1564.91,49
+1969,Liam Patel,India,Tea Tree Moisturizer,10-01-2022,2126.3,89
+1970,Liam Patel,India,Niacinamide Toner,09-04-2022,2893.74,204
+1971,Isabella Roy,Australia,Tea Tree Moisturizer,17-04-2022,13434.96,283
+1972,Ethan Reddy,India,Lip Balm Pack,05-07-2022,8273.51,169
+1973,Noah Mehta,UK,Charcoal Face Wash,07-04-2022,4063.64,149
+1974,Olivia D'Souza,UK,Aloe Vera Gel,06-08-2022,6650.47,471
+1975,Liam Patel,USA,Hydrating Face Serum,08-02-2022,4463.32,295
+1976,Ava Sharma,USA,SPF 50 Sunscreen,10-03-2022,16996.07,471
+1977,Olivia D'Souza,UK,Tea Tree Moisturizer,30-08-2022,4768.41,183
+1978,Isabella Roy,Australia,Face Sheet Masks,30-03-2022,18046.13,401
+1979,Mason Kapoor,USA,Aloe Vera Gel,18-05-2022,868.92,46
+1980,Liam Patel,Australia,Charcoal Face Wash,26-01-2022,4759.75,96
+1981,Isabella Roy,USA,Rose Water Toner,22-03-2022,19576.41,402
+1982,Sophia Nair,USA,Lip Balm Pack,20-06-2022,4824.94,235
+1983,Isabella Roy,Canada,Hair Repair Oil,19-05-2022,5555.52,150
+1984,Lucas Verma,USA,Aloe Vera Gel,28-01-2022,6004.2,126
+1985,Sophia Nair,USA,SPF 50 Sunscreen,06-04-2022,12369.81,456
+1986,Noah Mehta,UK,Lip Balm Pack,23-05-2022,861.89,29
+1987,Ava Sharma,Australia,Vitamin C Cream,11-03-2022,6048.32,360
+1988,Sophia Nair,India,Body Butter Cream,02-06-2022,15051.5,418
+1989,Mason Kapoor,UK,Under Eye Cream,18-05-2022,756.72,24
+1990,Isabella Roy,Canada,Salicylic Acid Cleanser,22-06-2022,534.64,22
+1991,Ava Sharma,Canada,Aloe Vera Gel,11-04-2022,12424.63,360
+1992,Liam Patel,India,Face Sheet Masks,18-05-2022,15136.25,354
+1993,Liam Patel,UK,Face Sheet Masks,28-03-2022,580.35,31
+1994,Ananya Gupta,India,Charcoal Face Wash,30-08-2022,5804.87,119
+1995,Noah Mehta,New Zealand,Face Sheet Masks,30-01-2022,23152.04,487
+1996,Mason Kapoor,Canada,SPF 50 Sunscreen,19-08-2022,6174.38,232
+1997,Lucas Verma,India,Tea Tree Moisturizer,07-07-2022,16619.54,425
+1998,Lucas Verma,New Zealand,Face Sheet Masks,10-06-2022,3214.37,161
+1999,Mason Kapoor,Australia,Vitamin C Cream,13-08-2022,16037.03,475
+2000,pearl,USA,Charcoal Face Wash,30-03-2022,6455.88,299
+2001,Isabella Roy,New Zealand,SPF 50 Sunscreen,15-03-2022,20659.54,478
+2002,Olivia D'Souza,Canada,Under Eye Cream,19-04-2022,19030.11,434
+2003,Noah Mehta,India,Hair Repair Oil,07-05-2022,5042.61,140
+2004,Sophia Nair,UK,SPF 50 Sunscreen,11-02-2022,15274.46,350
+2005,Mason Kapoor,USA,Charcoal Face Wash,16-03-2022,13934.58,498
+2006,Lucas Verma,Australia,SPF 50 Sunscreen,13-08-2022,858.68,73
+2007,Ananya Gupta,India,Hair Repair Oil,01-05-2022,10382.3,390
+2008,Olivia D'Souza,USA,Hair Repair Oil,27-01-2022,7825.06,499
+2009,Mason Kapoor,Canada,Anti-Aging Serum,19-05-2022,329,16
+2010,Isabella Roy,Australia,Rose Water Toner,04-07-2022,7014.04,191
+2011,Olivia D'Souza,India,Anti-Aging Serum,02-01-2022,9390.28,433
+2012,Noah Mehta,New Zealand,SPF 50 Sunscreen,26-08-2022,3368.14,279
+2013,Olivia D'Souza,Australia,Aloe Vera Gel,31-07-2022,2200.4,152
+2014,Sophia Nair,New Zealand,Face Sheet Masks,11-06-2022,381.6,23
+2015,Lucas Verma,USA,Body Butter Cream,26-02-2022,16452.13,440
+2016,Noah Mehta,India,Lip Balm Pack,02-07-2022,7364.22,306
+2017,Olivia D'Souza,USA,Face Sheet Masks,01-06-2022,11031.64,300
+2018,Ethan Reddy,India,Vitamin C Cream,24-02-2022,715.01,37
+2019,Ananya Gupta,Canada,Salicylic Acid Cleanser,01-03-2022,5699.19,197
+2020,Ava Sharma,India,SPF 50 Sunscreen,16-02-2022,7524.98,189
+2021,Sophia Nair,Australia,Hair Repair Oil,01-01-2022,10002.88,253
+2022,Liam Patel,New Zealand,Hair Repair Oil,29-05-2022,3812.45,85
+2023,Lucas Verma,Australia,Charcoal Face Wash,03-08-2022,6717.5,354
+2024,Ananya Gupta,Australia,Tea Tree Moisturizer,09-05-2022,8326.18,167
+2025,Isabella Roy,New Zealand,Salicylic Acid Cleanser,31-01-2022,5177.5,120
+2026,Ava Sharma,India,Body Butter Cream,02-07-2022,12188.95,362
+2027,Olivia D'Souza,India,Hair Repair Oil,23-07-2022,1225.41,80
+2028,Liam Patel,UK,Tea Tree Moisturizer,28-04-2022,16191.56,422
+2029,Olivia D'Souza,New Zealand,Lip Balm Pack,01-05-2022,10095.38,364
+2030,Ava Sharma,USA,Lip Balm Pack,24-03-2022,8901.98,335
+2031,Ethan Reddy,India,Under Eye Cream,20-08-2022,1761.2,138
+2032,Ava Sharma,UK,Rose Water Toner,02-05-2022,15189.5,308
+2033,Ananya Gupta,USA,Anti-Aging Serum,27-01-2022,7077.02,189
+2034,Sophia Nair,Australia,Tea Tree Moisturizer,21-06-2022,16495.37,424
+2035,Noah Mehta,UK,Vitamin C Cream,27-02-2022,6530.73,215
+2036,Noah Mehta,Australia,Under Eye Cream,05-06-2022,12915.63,388
+2037,Isabella Roy,Canada,Hydrating Face Serum,06-08-2022,16425.05,375
+2038,Olivia D'Souza,Australia,Hair Repair Oil,12-06-2022,6775,352
+2039,Lucas Verma,Canada,Lip Balm Pack,24-03-2022,4553.78,237
+2040,Liam Patel,USA,Anti-Aging Serum,17-04-2022,20895.19,482
+2041,Sophia Nair,UK,Hydrating Face Serum,16-07-2022,14822.36,318
+2042,Ethan Reddy,New Zealand,Rose Water Toner,27-03-2022,3428.81,225
+2043,Mason Kapoor,USA,Hydrating Face Serum,10-06-2022,2925.47,224
+2044,Lucas Verma,Canada,Tea Tree Moisturizer,10-01-2022,19444.09,452
+2045,Ethan Reddy,UK,Hair Repair Oil,09-03-2022,8591.2,176
+2046,Lucas Verma,UK,Body Butter Cream,30-04-2022,2289.16,167
+2047,Ananya Gupta,UK,Hydrating Face Serum,01-06-2022,6384.11,265
+2048,Lucas Verma,USA,Hydrating Face Serum,10-01-2022,2747.98,115
+2049,Liam Patel,Australia,Aloe Vera Gel,27-04-2022,6324.87,296
+2050,Liam Patel,USA,Anti-Aging Serum,19-01-2022,4592.38,155
+2051,Olivia D'Souza,UK,Tea Tree Moisturizer,29-05-2022,5016.53,164
+2052,Ethan Reddy,USA,Anti-Aging Serum,19-03-2022,636.78,43
+2053,Liam Patel,India,Vitamin C Cream,28-03-2022,2948.69,189
+2054,Ethan Reddy,Canada,Under Eye Cream,19-04-2022,19971.42,463
+2055,Ava Sharma,Australia,Salicylic Acid Cleanser,18-06-2022,8218.19,439
+2056,Ethan Reddy,Canada,Niacinamide Toner,21-07-2022,4964.03,225
+2057,Ethan Reddy,Australia,Tea Tree Moisturizer,21-02-2022,7881.92,253
+2058,Isabella Roy,India,Salicylic Acid Cleanser,28-08-2022,15267.53,321
+2059,Isabella Roy,USA,Hair Repair Oil,02-04-2022,16343.94,485
+2060,Sophia Nair,USA,Niacinamide Toner,06-01-2022,10904.55,236
+2061,Ethan Reddy,USA,Under Eye Cream,16-07-2022,3205,81
+2062,Olivia D'Souza,New Zealand,Under Eye Cream,18-01-2022,5771.22,140
+2063,Mason Kapoor,Australia,Charcoal Face Wash,24-03-2022,3977.2,80
+2064,Noah Mehta,New Zealand,Salicylic Acid Cleanser,21-02-2022,8919.5,363
+2065,Mason Kapoor,UK,Vitamin C Cream,06-04-2022,23284.44,499
+2066,Isabella Roy,Australia,Face Sheet Masks,27-04-2022,4260.44,103
+2067,Ava Sharma,India,Rose Water Toner,14-03-2022,7570.61,159
+2068,Ethan Reddy,Australia,Body Butter Cream,31-03-2022,18742.38,469
+2069,Mason Kapoor,UK,Anti-Aging Serum,07-07-2022,8787.8,249
+2070,Lucas Verma,New Zealand,Under Eye Cream,01-07-2022,16253.66,423
+2071,Lucas Verma,India,Aloe Vera Gel,06-05-2022,10789.63,436
+2072,Olivia D'Souza,Canada,Under Eye Cream,20-03-2022,841.52,27
+2073,Lucas Verma,UK,Under Eye Cream,30-01-2022,5926.16,152
+2074,Ava Sharma,Australia,Anti-Aging Serum,02-06-2022,7066.65,221
+2075,Olivia D'Souza,New Zealand,Body Butter Cream,01-04-2022,11533.13,427
+2076,Ava Sharma,Australia,Tea Tree Moisturizer,10-06-2022,6390.52,146
+2077,Sophia Nair,USA,Face Sheet Masks,09-06-2022,444.44,15
+2078,Ava Sharma,New Zealand,SPF 50 Sunscreen,15-06-2022,7220.46,171
+2079,Noah Mehta,Canada,SPF 50 Sunscreen,24-02-2022,3490.94,120
+2080,Mason Kapoor,Canada,Tea Tree Moisturizer,12-08-2022,7408.06,168
+2081,Noah Mehta,Canada,Rose Water Toner,31-07-2022,4111.71,175
+2082,Ananya Gupta,India,Tea Tree Moisturizer,28-03-2022,3823.54,269
+2083,Mason Kapoor,Australia,Lip Balm Pack,06-07-2022,4542.86,186
+2084,Noah Mehta,UK,Hydrating Face Serum,29-04-2022,527.39,11
+2085,Liam Patel,USA,Anti-Aging Serum,22-02-2022,4013.93,124
+2086,Ava Sharma,Australia,Niacinamide Toner,12-01-2022,593.94,38
+2087,Ethan Reddy,UK,SPF 50 Sunscreen,08-01-2022,4318.42,175
+2088,Sophia Nair,USA,Salicylic Acid Cleanser,15-05-2022,5293.89,144
+2089,Noah Mehta,USA,Under Eye Cream,24-01-2022,3165.41,181
+2090,Ethan Reddy,USA,Aloe Vera Gel,24-04-2022,5212.22,224
+2091,Ananya Gupta,UK,Tea Tree Moisturizer,12-06-2022,4320.88,211
+2092,Ananya Gupta,UK,Anti-Aging Serum,27-08-2022,434.03,16
+2093,Ava Sharma,USA,Rose Water Toner,22-02-2022,15708.48,486
+2094,Noah Mehta,New Zealand,Hair Repair Oil,26-05-2022,411.5,16
+2095,Liam Patel,Australia,Face Sheet Masks,30-07-2022,2124.81,101
+2096,Noah Mehta,Australia,Vitamin C Cream,12-01-2022,984.79,32
+2097,Ananya Gupta,New Zealand,Hydrating Face Serum,26-04-2022,13049.1,327
+2098,Olivia D'Souza,India,Body Butter Cream,29-06-2022,956.42,21
+2099,Ananya Gupta,New Zealand,SPF 50 Sunscreen,15-04-2022,5712.21,337
+2100,Isabella Roy,India,Niacinamide Toner,28-04-2022,6985.76,410
+2101,Ethan Reddy,USA,Niacinamide Toner,10-08-2022,10122.81,236
+2102,Olivia D'Souza,USA,Lip Balm Pack,22-01-2022,4746.86,321
+2103,Ava Sharma,UK,Hydrating Face Serum,19-03-2022,365.6,18
+2104,Sophia Nair,New Zealand,Face Sheet Masks,15-08-2022,9791.02,385
+2105,Lucas Verma,USA,Vitamin C Cream,23-01-2022,6966.13,364
+2106,Noah Mehta,USA,Tea Tree Moisturizer,20-01-2022,14282.35,458
+2107,Isabella Roy,Canada,Vitamin C Cream,24-08-2022,2735.77,73
+2108,Ethan Reddy,Canada,Hydrating Face Serum,17-02-2022,5503.98,338
+2109,Ananya Gupta,UK,Hydrating Face Serum,04-05-2022,10872.5,351
+2110,Ananya Gupta,Australia,Aloe Vera Gel,06-01-2022,4158.5,286
+2111,Ethan Reddy,Australia,Hair Repair Oil,15-04-2022,23977.48,481
+2112,Liam Patel,New Zealand,Charcoal Face Wash,25-08-2022,5031.06,161
+2113,Noah Mehta,Canada,Vitamin C Cream,31-05-2022,7460.34,356
+2114,Ethan Reddy,USA,Niacinamide Toner,08-07-2022,6613.2,186
+2115,Ethan Reddy,New Zealand,Lip Balm Pack,30-04-2022,708.87,36
+2116,Isabella Roy,New Zealand,Hydrating Face Serum,16-06-2022,10445.39,306
+2117,Sophia Nair,Australia,Vitamin C Cream,11-04-2022,5797.63,254
+2118,Sophia Nair,India,Anti-Aging Serum,19-03-2022,10473.97,441
+2119,Isabella Roy,Canada,Hair Repair Oil,15-07-2022,1372.66,33
+2120,Isabella Roy,New Zealand,SPF 50 Sunscreen,03-03-2022,11414.54,333
+2121,Noah Mehta,India,Vitamin C Cream,16-05-2022,631.36,41
+2122,Lucas Verma,Australia,Anti-Aging Serum,30-03-2022,6093.04,357
+2123,Olivia D'Souza,Australia,Hair Repair Oil,13-04-2022,3335.93,270
+2124,Isabella Roy,USA,Lip Balm Pack,11-06-2022,15130.24,384
+2125,Liam Patel,Australia,Charcoal Face Wash,05-03-2022,3321.69,145
+2126,Sophia Nair,New Zealand,Aloe Vera Gel,16-08-2022,2336.36,119
+2127,Noah Mehta,USA,Hydrating Face Serum,15-04-2022,19443.77,420
+2128,Olivia D'Souza,Canada,Tea Tree Moisturizer,31-01-2022,4534.5,161
+2129,Ananya Gupta,UK,Hydrating Face Serum,24-08-2022,1027.1,69
+2130,Ethan Reddy,India,Hair Repair Oil,15-03-2022,2883,66
+2131,Mason Kapoor,New Zealand,Charcoal Face Wash,08-01-2022,2593.64,66
+2132,Mason Kapoor,UK,Hydrating Face Serum,03-04-2022,5802.73,433
+2133,Ethan Reddy,Australia,Hydrating Face Serum,18-05-2022,11992.11,257
+2134,Ananya Gupta,USA,Hair Repair Oil,07-02-2022,352.92,30
+2135,Ava Sharma,New Zealand,Tea Tree Moisturizer,28-05-2022,7024.11,190
+2136,Sophia Nair,New Zealand,Hair Repair Oil,31-05-2022,2884.52,118
+2137,Ananya Gupta,USA,Face Sheet Masks,26-06-2022,5022.76,154
+2138,Ananya Gupta,New Zealand,Lip Balm Pack,18-08-2022,5250.58,299
+2139,Ethan Reddy,USA,Niacinamide Toner,09-05-2022,2584.15,108
+2140,Mason Kapoor,USA,Vitamin C Cream,13-07-2022,8581.27,190
+2141,Sophia Nair,New Zealand,Lip Balm Pack,03-06-2022,559.73,12
+2142,Olivia D'Souza,India,Face Sheet Masks,07-06-2022,12905.06,498
+2143,Sophia Nair,USA,Hair Repair Oil,24-06-2022,13509.42,296
+2144,Ananya Gupta,India,Salicylic Acid Cleanser,29-05-2022,3116.98,148
+2145,Isabella Roy,USA,Anti-Aging Serum,05-06-2022,1123.46,56
+2146,Ethan Reddy,USA,Niacinamide Toner,30-03-2022,18188.8,495
+2147,Mason Kapoor,USA,Rose Water Toner,25-01-2022,8484.94,317
+2148,Sophia Nair,New Zealand,Aloe Vera Gel,22-07-2022,6693.75,476
+2149,Noah Mehta,New Zealand,Body Butter Cream,27-06-2022,9682.74,394
+2150,Isabella Roy,Australia,Anti-Aging Serum,19-01-2022,3241.7,232
+2151,Liam Patel,India,Tea Tree Moisturizer,29-03-2022,10885.26,233
+2152,Olivia D'Souza,USA,Anti-Aging Serum,24-06-2022,4934.32,194
+2153,Ethan Reddy,New Zealand,Anti-Aging Serum,24-03-2022,21726.67,436
+2154,Ethan Reddy,New Zealand,Body Butter Cream,18-04-2022,5873.54,355
+2155,Ananya Gupta,Canada,Salicylic Acid Cleanser,10-07-2022,9561.31,268
+2156,Ananya Gupta,Australia,Charcoal Face Wash,26-02-2022,3463.01,74
+2157,Isabella Roy,USA,Charcoal Face Wash,23-06-2022,136.05,11
+2158,Olivia D'Souza,Australia,Lip Balm Pack,21-05-2022,3525.11,215
+2159,Olivia D'Souza,Australia,Charcoal Face Wash,08-04-2022,4819.15,332
+2160,Liam Patel,Canada,Niacinamide Toner,21-08-2022,5661.96,136
+2161,Isabella Roy,Australia,Vitamin C Cream,28-01-2022,980.84,39
+2162,Lucas Verma,Australia,Charcoal Face Wash,05-08-2022,1430.77,38
+2163,Noah Mehta,India,Niacinamide Toner,27-07-2022,1178.22,40
+2164,Lucas Verma,New Zealand,Body Butter Cream,18-02-2022,9645.48,286
+2165,Mason Kapoor,New Zealand,Hydrating Face Serum,11-02-2022,3703.09,141
+2166,Ava Sharma,New Zealand,SPF 50 Sunscreen,28-02-2022,10465.99,393
+2167,Sophia Nair,India,Vitamin C Cream,27-03-2022,11297.48,314
+2168,Ananya Gupta,USA,Anti-Aging Serum,26-07-2022,9203.38,400
+2169,Lucas Verma,India,Face Sheet Masks,07-07-2022,10092.43,239
+2170,Ethan Reddy,New Zealand,Hair Repair Oil,11-07-2022,2394.9,84
+2171,Ethan Reddy,Australia,Vitamin C Cream,31-01-2022,4157.41,264
+2172,Mason Kapoor,Australia,Tea Tree Moisturizer,28-06-2022,3986.46,140
+2173,Sophia Nair,New Zealand,Lip Balm Pack,03-06-2022,16045.86,477
+2174,Ethan Reddy,New Zealand,Aloe Vera Gel,27-01-2022,5616.37,246
+2175,Isabella Roy,India,Under Eye Cream,11-08-2022,1741.42,42
+2176,Mason Kapoor,Australia,Niacinamide Toner,27-07-2022,4344.35,109
+2177,Liam Patel,USA,Body Butter Cream,09-03-2022,8483.48,342
+2178,Olivia D'Souza,New Zealand,Salicylic Acid Cleanser,06-05-2022,723.29,27
+2179,Lucas Verma,UK,Salicylic Acid Cleanser,20-01-2022,4476,343
+2180,Sophia Nair,New Zealand,SPF 50 Sunscreen,09-05-2022,13449.54,299
+2181,Ananya Gupta,New Zealand,Niacinamide Toner,27-07-2022,13220.1,305
+2182,Olivia D'Souza,Australia,SPF 50 Sunscreen,03-06-2022,16987.7,411
+2183,Ananya Gupta,Australia,Lip Balm Pack,10-07-2022,9085.51,237
+2184,Olivia D'Souza,USA,Anti-Aging Serum,27-06-2022,11544.08,423
+2185,Olivia D'Souza,USA,Vitamin C Cream,23-04-2022,12587.78,297
+2186,Liam Patel,Canada,Salicylic Acid Cleanser,17-04-2022,12202.64,321
+2187,Ava Sharma,UK,SPF 50 Sunscreen,23-01-2022,6319.71,366
+2188,Olivia D'Souza,New Zealand,Under Eye Cream,18-02-2022,16902.63,472
+2189,Liam Patel,India,Tea Tree Moisturizer,03-08-2022,5408.77,412
+2190,Ananya Gupta,New Zealand,Face Sheet Masks,02-05-2022,11725.2,314
+2191,Liam Patel,Canada,Tea Tree Moisturizer,22-04-2022,9669.71,376
+2192,Ananya Gupta,New Zealand,Vitamin C Cream,03-01-2022,2875.15,201
+2193,Sophia Nair,India,Anti-Aging Serum,11-03-2022,14214.55,447
+2194,Mason Kapoor,India,Body Butter Cream,05-03-2022,1195.52,29
+2195,Olivia D'Souza,Australia,Under Eye Cream,04-05-2022,16375.54,491
+2196,Ethan Reddy,New Zealand,Aloe Vera Gel,24-03-2022,8190.32,240
+2197,Ethan Reddy,New Zealand,Under Eye Cream,24-05-2022,19125.15,488
+2198,Lucas Verma,Australia,Hair Repair Oil,15-04-2022,585.65,20
+2199,Lucas Verma,UK,Aloe Vera Gel,26-03-2022,20317.26,485
+2200,Mason Kapoor,New Zealand,Rose Water Toner,07-08-2022,9887.34,320
+2201,Sophia Nair,Canada,Anti-Aging Serum,31-07-2022,8194.42,276
+2202,Isabella Roy,Australia,Under Eye Cream,26-03-2022,7471.71,491
+2203,Sophia Nair,UK,SPF 50 Sunscreen,02-06-2022,7060.26,142
+2204,Olivia D'Souza,UK,Salicylic Acid Cleanser,02-06-2022,13053.64,282
+2205,Mason Kapoor,USA,Anti-Aging Serum,29-04-2022,8399.02,181
+2206,Olivia D'Souza,UK,Hydrating Face Serum,11-03-2022,7990.6,199
+2207,Olivia D'Souza,Australia,Aloe Vera Gel,25-07-2022,11098.01,225
+2208,Lucas Verma,Australia,Body Butter Cream,03-05-2022,19951.07,426
+2209,Lucas Verma,Australia,Hydrating Face Serum,08-01-2022,119.82,10
+2210,Sophia Nair,USA,Anti-Aging Serum,02-01-2022,12551.57,377
+2211,Noah Mehta,USA,Rose Water Toner,29-07-2022,7718.1,265
+2212,Ananya Gupta,New Zealand,Body Butter Cream,29-07-2022,6264.79,163
+2213,Ethan Reddy,Australia,Niacinamide Toner,06-01-2022,1617.05,69
+2214,Isabella Roy,India,Charcoal Face Wash,26-03-2022,2630.52,64
+2215,Olivia D'Souza,USA,SPF 50 Sunscreen,28-08-2022,5024.53,251
+2216,Lucas Verma,Canada,Hair Repair Oil,27-01-2022,19586.58,451
+2217,Lucas Verma,Canada,Under Eye Cream,11-07-2022,1905.06,40
+2218,Mason Kapoor,India,Anti-Aging Serum,12-04-2022,5032.22,474
+2219,Isabella Roy,UK,Tea Tree Moisturizer,19-04-2022,7678.26,236
+2220,Olivia D'Souza,UK,Vitamin C Cream,10-02-2022,20181,409
+2221,Olivia D'Souza,Canada,Anti-Aging Serum,04-01-2022,8709.22,178
+2222,Liam Patel,UK,Face Sheet Masks,01-08-2022,18763.82,444
+2223,Lucas Verma,Australia,Hair Repair Oil,20-03-2022,11343.37,269
+2224,Liam Patel,UK,Vitamin C Cream,13-06-2022,4905.1,248
+2225,Ava Sharma,USA,Charcoal Face Wash,17-03-2022,10071.75,204
+2226,Sophia Nair,Canada,Hair Repair Oil,31-07-2022,5025.69,133
+2227,Olivia D'Souza,New Zealand,Charcoal Face Wash,30-08-2022,1274.86,81
+2228,Noah Mehta,USA,Face Sheet Masks,05-04-2022,2848.07,193
+2229,Isabella Roy,Australia,Rose Water Toner,19-06-2022,5431.35,152
+2230,Olivia D'Souza,UK,Rose Water Toner,21-06-2022,23090.87,482
+2231,Ananya Gupta,Australia,Anti-Aging Serum,11-06-2022,13289.99,273
+2232,Isabella Roy,Canada,SPF 50 Sunscreen,02-04-2022,14114.16,422
+2233,Liam Patel,Australia,Charcoal Face Wash,14-03-2022,3064.72,251
+2234,Noah Mehta,UK,Lip Balm Pack,03-07-2022,13987.08,372
+2235,Olivia D'Souza,UK,Niacinamide Toner,18-07-2022,17890.38,457
+2236,Ananya Gupta,UK,Tea Tree Moisturizer,01-08-2022,11345.7,487
+2237,Liam Patel,USA,Under Eye Cream,05-05-2022,3795.64,206
+2238,Lucas Verma,USA,SPF 50 Sunscreen,26-07-2022,1004.71,21
+2239,Liam Patel,Australia,Vitamin C Cream,30-05-2022,5575.62,371
+2240,Ananya Gupta,New Zealand,Hydrating Face Serum,07-05-2022,12563.44,420
+2241,Ananya Gupta,USA,Lip Balm Pack,21-06-2022,4983.24,143
+2242,Sophia Nair,New Zealand,Salicylic Acid Cleanser,16-08-2022,782.09,19
+2243,Liam Patel,UK,Vitamin C Cream,17-08-2022,17614.9,386
+2244,Lucas Verma,Canada,Aloe Vera Gel,30-04-2022,7897.13,358
+2245,Ethan Reddy,UK,Aloe Vera Gel,25-01-2022,16376.88,449
+2246,Ananya Gupta,India,Body Butter Cream,22-08-2022,5599.68,264
+2247,Ananya Gupta,New Zealand,Salicylic Acid Cleanser,26-08-2022,2966.47,144
+2248,Sophia Nair,UK,Body Butter Cream,19-05-2022,6828.68,484
+2249,Ananya Gupta,UK,Lip Balm Pack,27-08-2022,2555.95,192
+2250,Ananya Gupta,New Zealand,Rose Water Toner,29-04-2022,832.92,19
+2251,Sophia Nair,New Zealand,Tea Tree Moisturizer,15-07-2022,997.96,36
+2252,Isabella Roy,New Zealand,Lip Balm Pack,04-02-2022,7754.36,466
+2253,Noah Mehta,India,Aloe Vera Gel,16-05-2022,5507.19,176
+2254,Olivia D'Souza,Australia,Body Butter Cream,27-01-2022,1119.66,87
+2255,Sophia Nair,USA,Face Sheet Masks,02-06-2022,6853.59,384
+2256,Ava Sharma,USA,Hair Repair Oil,06-04-2022,12147.98,254
+2257,Lucas Verma,New Zealand,Aloe Vera Gel,26-07-2022,923.46,79
+2258,Ava Sharma,Canada,Salicylic Acid Cleanser,10-01-2022,442.07,24
+2259,Liam Patel,Canada,Aloe Vera Gel,04-01-2022,3900.37,83
+2260,Ava Sharma,New Zealand,Body Butter Cream,02-06-2022,801.63,25
+2261,Isabella Roy,India,Aloe Vera Gel,03-03-2022,10101.78,251
+2262,Sophia Nair,Canada,Vitamin C Cream,29-05-2022,6600.15,417
+2263,Lucas Verma,USA,Niacinamide Toner,28-05-2022,5302.98,258
+2264,Noah Mehta,UK,Under Eye Cream,02-08-2022,6310.09,257
+2265,Noah Mehta,Canada,Hydrating Face Serum,17-07-2022,2369.18,211
+2266,Sophia Nair,UK,Aloe Vera Gel,14-05-2022,16418.97,358
+2267,Olivia D'Souza,New Zealand,Vitamin C Cream,15-01-2022,10774.83,226
+2268,Sophia Nair,Australia,Niacinamide Toner,13-04-2022,5958.48,162
+2269,Olivia D'Souza,USA,Tea Tree Moisturizer,22-07-2022,1194.96,74
+2270,Isabella Roy,Australia,Charcoal Face Wash,11-04-2022,314.68,18
+2271,Mason Kapoor,Australia,Anti-Aging Serum,18-06-2022,1442.65,91
+2272,Liam Patel,USA,Under Eye Cream,12-06-2022,2810.34,78
+2273,Mason Kapoor,UK,Under Eye Cream,13-01-2022,1394.62,57
+2274,Liam Patel,Australia,Niacinamide Toner,02-04-2022,8143.6,213
+2275,Mason Kapoor,UK,Body Butter Cream,10-07-2022,12885.94,340
+2276,Liam Patel,Canada,Lip Balm Pack,03-08-2022,16223.13,362
+2277,Noah Mehta,UK,Face Sheet Masks,18-03-2022,8330.47,217
+2278,Mason Kapoor,New Zealand,Rose Water Toner,19-06-2022,5384.2,290
+2279,Ava Sharma,India,Hydrating Face Serum,07-03-2022,19594.27,450
+2280,Ava Sharma,New Zealand,Vitamin C Cream,27-05-2022,12213.24,266
+2281,Lucas Verma,UK,Hydrating Face Serum,11-05-2022,4242.56,357
+2282,Mason Kapoor,Australia,Face Sheet Masks,20-03-2022,13379.16,498
+2283,Lucas Verma,Australia,Tea Tree Moisturizer,25-03-2022,9353.99,246
+2284,Ananya Gupta,New Zealand,Vitamin C Cream,26-08-2022,5032.73,147
+2285,Mason Kapoor,UK,Lip Balm Pack,09-01-2022,3041.08,103
+2286,Ananya Gupta,Canada,Hair Repair Oil,25-03-2022,3258.73,150
+2287,Liam Patel,USA,Anti-Aging Serum,17-05-2022,10452.26,242
+2288,Ethan Reddy,USA,Hydrating Face Serum,29-05-2022,8642.86,298
+2289,Ananya Gupta,India,Rose Water Toner,31-03-2022,2523.86,102
+2290,Ethan Reddy,Canada,Charcoal Face Wash,07-05-2022,11599.9,324
+2291,Liam Patel,New Zealand,SPF 50 Sunscreen,27-05-2022,15606.61,331
+2292,Mason Kapoor,New Zealand,Lip Balm Pack,13-07-2022,9583.51,312
+2293,Noah Mehta,New Zealand,Tea Tree Moisturizer,13-08-2022,10192.85,373
+2294,Olivia D'Souza,USA,Hydrating Face Serum,02-05-2022,21701.44,483
+2295,Sophia Nair,India,Hair Repair Oil,28-08-2022,6496.58,366
+2296,Ananya Gupta,New Zealand,Body Butter Cream,02-02-2022,16383.31,438
+2297,Mason Kapoor,New Zealand,Body Butter Cream,03-06-2022,15834.45,361
+2298,Noah Mehta,UK,Lip Balm Pack,17-05-2022,7501.02,489
+2299,Noah Mehta,UK,Hydrating Face Serum,24-06-2022,922.43,29
+2300,Ananya Gupta,India,Salicylic Acid Cleanser,28-04-2022,6141.45,213
+2301,Noah Mehta,New Zealand,Rose Water Toner,23-03-2022,1745.79,156
+2302,Liam Patel,New Zealand,Charcoal Face Wash,25-03-2022,7268.2,198
+2303,Sophia Nair,UK,SPF 50 Sunscreen,25-04-2022,424.38,30
+2304,Noah Mehta,New Zealand,Body Butter Cream,08-04-2022,10711.79,331
+2305,Noah Mehta,USA,Vitamin C Cream,23-03-2022,8154.9,248
+2306,Ava Sharma,New Zealand,Tea Tree Moisturizer,25-07-2022,5132.41,454
+2307,Isabella Roy,India,Vitamin C Cream,21-03-2022,6538.2,264
+2308,Ethan Reddy,USA,Rose Water Toner,11-07-2022,13625.75,406
+2309,Isabella Roy,Australia,SPF 50 Sunscreen,18-06-2022,3344.35,244
+2310,Sophia Nair,India,Aloe Vera Gel,02-03-2022,11456.29,325
+2311,Ava Sharma,India,Hair Repair Oil,19-04-2022,8946.01,434
+2312,Ananya Gupta,Australia,Hair Repair Oil,16-01-2022,15120.74,360
+2313,Ethan Reddy,Canada,Under Eye Cream,01-04-2022,9372.51,274
+2314,Ananya Gupta,UK,Hydrating Face Serum,22-05-2022,4531.42,107
+2315,Noah Mehta,USA,Aloe Vera Gel,13-01-2022,16283.5,456
+2316,Ava Sharma,Canada,Tea Tree Moisturizer,24-01-2022,10108.84,402
+2317,Noah Mehta,UK,Body Butter Cream,12-08-2022,3801.03,202
+2318,Liam Patel,USA,Anti-Aging Serum,08-07-2022,1308.08,51
+2319,Noah Mehta,Canada,Face Sheet Masks,09-07-2022,13195,285
+2320,Isabella Roy,Australia,Niacinamide Toner,25-04-2022,5223.33,152
+2321,Olivia D'Souza,Canada,Salicylic Acid Cleanser,30-08-2022,6102.47,146
+2322,Noah Mehta,Australia,Hydrating Face Serum,29-06-2022,8416.43,237
+2323,Isabella Roy,Canada,Under Eye Cream,22-05-2022,8215.87,334
+2324,Sophia Nair,Canada,SPF 50 Sunscreen,29-03-2022,6936.38,322
+2325,Olivia D'Souza,New Zealand,Under Eye Cream,04-03-2022,2422.62,180
+2326,Lucas Verma,USA,Anti-Aging Serum,13-01-2022,17090.34,366
+2327,Ava Sharma,Canada,Hydrating Face Serum,23-02-2022,10497.39,324
+2328,Sophia Nair,UK,Under Eye Cream,29-08-2022,569.78,14
+2329,Olivia D'Souza,UK,Hydrating Face Serum,15-03-2022,4103.17,124
+2330,Isabella Roy,Australia,SPF 50 Sunscreen,26-08-2022,891.11,73
+2331,Isabella Roy,UK,Hydrating Face Serum,18-01-2022,14127.27,465
+2332,Olivia D'Souza,USA,Aloe Vera Gel,25-03-2022,5150.27,218
+2333,Noah Mehta,USA,Face Sheet Masks,08-03-2022,146.7,13
+2334,Sophia Nair,New Zealand,Hair Repair Oil,17-02-2022,3812.92,118
+2335,Mason Kapoor,USA,Niacinamide Toner,23-07-2022,9450.04,218
+2336,Noah Mehta,UK,Face Sheet Masks,14-02-2022,6457.54,293
+2337,Olivia D'Souza,UK,Under Eye Cream,19-02-2022,7925.54,309
+2338,Lucas Verma,USA,Tea Tree Moisturizer,13-04-2022,16861.45,385
+2339,Lucas Verma,New Zealand,Salicylic Acid Cleanser,17-08-2022,1650.87,72
+2340,Ananya Gupta,Australia,Hair Repair Oil,15-07-2022,19861.82,424
+2341,Isabella Roy,Canada,Body Butter Cream,08-06-2022,10647.12,234
+2342,Olivia D'Souza,Australia,SPF 50 Sunscreen,03-06-2022,1564.91,49
+2343,Liam Patel,India,Tea Tree Moisturizer,10-01-2022,2126.3,89
+2344,Liam Patel,India,Niacinamide Toner,09-04-2022,2893.74,204
+2345,Isabella Roy,Australia,Tea Tree Moisturizer,17-04-2022,13434.96,283
+2346,Ethan Reddy,India,Lip Balm Pack,05-07-2022,8273.51,169
+2347,Noah Mehta,UK,Charcoal Face Wash,07-04-2022,4063.64,149
+2348,Olivia D'Souza,UK,Aloe Vera Gel,06-08-2022,6650.47,471
+2349,Liam Patel,USA,Hydrating Face Serum,08-02-2022,4463.32,295
+2350,Ava Sharma,USA,SPF 50 Sunscreen,10-03-2022,16996.07,471
+2351,Olivia D'Souza,UK,Tea Tree Moisturizer,30-08-2022,4768.41,183
+2352,Isabella Roy,Australia,Face Sheet Masks,30-03-2022,18046.13,401
+2353,Mason Kapoor,USA,Aloe Vera Gel,18-05-2022,868.92,46
+2354,Liam Patel,Australia,Charcoal Face Wash,26-01-2022,4759.75,96
+2355,Isabella Roy,USA,Rose Water Toner,22-03-2022,19576.41,402
+2356,Sophia Nair,USA,Lip Balm Pack,20-06-2022,4824.94,235
+2357,Isabella Roy,Canada,Hair Repair Oil,19-05-2022,5555.52,150
+2358,Lucas Verma,USA,Aloe Vera Gel,28-01-2022,6004.2,126
+2359,Sophia Nair,USA,SPF 50 Sunscreen,06-04-2022,12369.81,456
+2360,Noah Mehta,UK,Lip Balm Pack,23-05-2022,861.89,29
+2361,Ava Sharma,Australia,Vitamin C Cream,11-03-2022,6048.32,360
+2362,Sophia Nair,India,Body Butter Cream,02-06-2022,15051.5,418
+2363,Mason Kapoor,UK,Under Eye Cream,18-05-2022,756.72,24
+2364,Isabella Roy,Canada,Salicylic Acid Cleanser,22-06-2022,534.64,22
+2365,Ava Sharma,Canada,Aloe Vera Gel,11-04-2022,12424.63,360
+2366,Liam Patel,India,Face Sheet Masks,18-05-2022,15136.25,354
+2367,Liam Patel,UK,Face Sheet Masks,28-03-2022,580.35,31
+2368,Ananya Gupta,India,Charcoal Face Wash,30-08-2022,5804.87,119
+2369,Noah Mehta,New Zealand,Face Sheet Masks,30-01-2022,23152.04,487
+2370,Mason Kapoor,Canada,SPF 50 Sunscreen,19-08-2022,6174.38,232
+2371,Lucas Verma,India,Tea Tree Moisturizer,07-07-2022,16619.54,425
+2372,Lucas Verma,New Zealand,Face Sheet Masks,10-06-2022,3214.37,161
+2373,Mason Kapoor,Australia,Vitamin C Cream,13-08-2022,16037.03,475
