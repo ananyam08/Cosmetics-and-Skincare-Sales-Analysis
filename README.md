@@ -66,13 +66,13 @@ Columns: sale_Id, Sales Person, Country, Product, shipped Date, Amount ($), Boxe
    plotting of bar graph,heat map,scatter plot,histplot
    
 3.EDA and Visualization using power BI
-   objectives:This Power BI dashboard provides a comprehensive analysis of cosmetics sales, customer behavior, and market performance. It is designed to help businesses in the beauty and personal care industry       make data-driven decisions by visualizing key performance metrics and trends.
+  objectives:This Power BI dashboard provides a comprehensive analysis of cosmetics sales, customer behavior, and market performance. It is designed to help businesses in the beauty and personal care industry       make data-driven decisions by visualizing key performance metrics and trends.
 
-   data import & inspection
-   data cleaning 
-   dashboard creation using differ type of charts for visualization
-   slicers for country to filter the visualization
-   new measures of mix,max,total,average 
-   DAX to find top selling products 
+  data import & inspection
+  data cleaning 
+  dashboard creation using differ type of charts for visualization
+  slicers for country to filter the visualization
+  new measures of mix,max,total,average 
+  DAX to find top selling products 
 
 
